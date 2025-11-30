@@ -1,0 +1,1001 @@
+Power_Usage,Item_ID,Item_Type,Outlet_Establishment_Year,Outlet_Location_Type,Outlet_Size,Outlet_Type,Outlet_Identifier,Item_Visibility,Item_Weight,Total_Sales,Rating
+Medium,LPC19,Laptop and PC,2020,Tier 1,Large,Electronics Hub - Type 1,OUT002,0.0490371,2.88,448.38,5
+High,HMA45,Home Appliance,2000,Tier 1,Large,Multibrand Superstore,OUT003,0.336947,16.82,1027.71,4
+High,HMA31,Home Appliance,2010,Tier 3,Large,Electronics Hub - Type 2,OUT004,0.9278016,38.2,345.6,5
+Medium,LPC61,Laptop and PC,2010,Tier 3,Large,Electronics Hub - Type 1,OUT005,0.882249,1.47,2969.07,1
+Low,TBL74,Tablet,2009,Tier 3,Large,Multibrand Superstore,OUT006,0.7399116,0.54,2341.07,5
+High,HMA64,Home Appliance,2020,Tier 1,Small,Electronics Hub - Type 2,OUT007,0.2931165,15.83,2292.64,5
+Low,MBL22,Mobile Phones,2011,Tier 1,Medium,Electronics Hub - Type 1,OUT008,0.5977815,0.3,2506.3,4
+Low,SWR59,Smart Wearables,2008,Tier 1,Large,Electronics Hub - Type 2,OUT009,0.7112296,0.1,339.97,3
+Medium,LPC75,Laptop and PC,2007,Tier 2,Medium,Multibrand Superstore,OUT010,0.0709675,1.41,2612.79,5
+Medium,LPC11,Laptop and PC,2019,Tier 3,Large,Electronics Hub - Type 1,OUT011,0.2748157,2.06,141.93,5
+Low,TBL93,Tablet,2001,Tier 3,Large,Electronics Hub - Type 2,OUT012,0.3429588,0.47,790.18,4
+High,HMA81,Home Appliance,2004,Tier 2,Small,Multibrand Superstore,OUT013,0.565815,29.34,648.64,3
+Medium,LPC31,Laptop and PC,2006,Tier 2,Small,Multibrand Superstore,OUT014,0.8566559,2.85,2445.37,3
+High,HMA76,Home Appliance,2009,Tier 1,Small,Electronics Hub - Type 1,OUT015,0.2733968,39.3,905.44,5
+Low,MBL38,Mobile Phones,2001,Tier 1,Large,Multibrand Superstore,OUT016,0.9097218,0.2,678.33,4
+High,HMA24,Home Appliance,2006,Tier 2,Medium,Multibrand Superstore,OUT017,0.4990882,16.34,1556.78,5
+Medium,AUD83,Audio Equipment,2014,Tier 1,Medium,Official Brand Store,OUT018,0.2307336,2.23,1462.22,4
+Low,SWR86,Smart Wearables,2007,Tier 2,Small,Multibrand Superstore,OUT019,0.2498203,0.14,625.73,3
+Low,MBL47,Mobile Phones,2001,Tier 1,Medium,Electronics Hub - Type 2,OUT020,0.191269,0.27,177.46,3
+Low,TBL56,Tablet,2000,Tier 1,Medium,Official Brand Store,OUT021,0.9394154,0.52,2547.67,2
+Low,SWR80,Smart Wearables,2016,Tier 3,Large,Multibrand Superstore,OUT022,0.2774896,0.14,2895.97,5
+Medium,LPC19,Laptop and PC,2009,Tier 3,Large,Multibrand Superstore,OUT006,0.3176419,3.01,1283.92,5
+Low,SWR49,Smart Wearables,2001,Tier 3,Large,Official Brand Store,OUT023,0.7845034,0.09,2251.78,4
+Low,MBL15,Mobile Phones,2011,Tier 2,Medium,Electronics Hub - Type 2,OUT024,0.7705737,0.3,1384.03,5
+Low,TBL87,Tablet,2006,Tier 2,Small,Official Brand Store,OUT025,0.5206679,0.36,210.9,5
+High,HMA77,Home Appliance,2008,Tier 2,Large,Electronics Hub - Type 1,OUT026,0.4538119,7.18,2273.1,5
+Medium,LPC93,Laptop and PC,2010,Tier 2,Small,Official Brand Store,OUT027,0.1022825,1.63,2476.12,5
+Low,TBL38,Tablet,2010,Tier 2,Medium,Multibrand Superstore,OUT028,0.1920495,0.44,1112.07,2
+Medium,AUD95,Audio Equipment,2017,Tier 3,Large,Electronics Hub - Type 2,OUT029,0.8718324,0.68,2823.34,5
+Low,MBL44,Mobile Phones,2002,Tier 2,Large,Electronics Hub - Type 2,OUT030,0.2065103,0.16,2842.19,4
+Low,MBL68,Mobile Phones,2015,Tier 3,Small,Electronics Hub - Type 1,OUT031,0.2181649,0.37,857.79,5
+Medium,AUD34,Audio Equipment,2007,Tier 1,Medium,Electronics Hub - Type 2,OUT032,0.4256162,3.98,380.62,4
+Low,SWR25,Smart Wearables,2014,Tier 3,Small,Electronics Hub - Type 2,OUT033,0.787984,0.07,2354.3,5
+High,HMA73,Home Appliance,2008,Tier 2,Small,Multibrand Superstore,OUT034,0.5718873,6.96,2404.61,3
+Low,TBL59,Tablet,2006,Tier 2,Small,Multibrand Superstore,OUT014,0.2423521,0.37,801.05,3
+Medium,LPC65,Laptop and PC,2006,Tier 3,Small,Electronics Hub - Type 1,OUT035,0.215523,2.49,1460.36,5
+Medium,LPC25,Laptop and PC,2015,Tier 2,Small,Official Brand Store,OUT036,0.2303738,2.68,2293.46,4
+Medium,AUD38,Audio Equipment,2015,Tier 2,Medium,Electronics Hub - Type 1,OUT037,0.5074217,3.89,1118.56,4
+Medium,LPC44,Laptop and PC,2006,Tier 3,Large,Electronics Hub - Type 2,OUT038,0.3999579,3.2,2575.55,2
+Low,MBL28,Mobile Phones,2004,Tier 1,Large,Official Brand Store,OUT039,0.6305507,0.21,1397.2,4
+High,HMA89,Home Appliance,2020,Tier 2,Small,Multibrand Superstore,OUT040,0.569201,14.78,1180.74,1
+High,HMA26,Home Appliance,2008,Tier 3,Small,Multibrand Superstore,OUT041,0.8930535,36.99,1690.41,3
+Medium,LPC97,Laptop and PC,2013,Tier 3,Small,Official Brand Store,OUT042,0.6698628,3.4,945.93,3
+High,HMA18,Home Appliance,2003,Tier 3,Small,Multibrand Superstore,OUT043,0.3579083,27.74,2627.6,4
+Low,TBL73,Tablet,2015,Tier 1,Large,Official Brand Store,OUT044,0.4506632,0.33,974.96,2
+Low,SWR41,Smart Wearables,2015,Tier 2,Small,Official Brand Store,OUT036,0.1112073,0.15,503.06,4
+Low,SWR46,Smart Wearables,2010,Tier 3,Small,Official Brand Store,OUT045,0.3145253,0.07,1437.39,2
+Low,TBL97,Tablet,2017,Tier 1,Small,Electronics Hub - Type 1,OUT046,0.2036905,0.37,1971.13,4
+Low,MBL88,Mobile Phones,2001,Tier 3,Medium,Official Brand Store,OUT047,0.5955384,0.22,1362.35,4
+Low,MBL66,Mobile Phones,2006,Tier 1,Medium,Electronics Hub - Type 1,OUT048,0.2141388,0.12,250.32,4
+Medium,LPC57,Laptop and PC,2016,Tier 3,Medium,Electronics Hub - Type 1,OUT049,0.313223,1.68,2629.53,4
+Low,MBL99,Mobile Phones,2019,Tier 2,Medium,Official Brand Store,OUT050,0.5202947,0.4,2533.17,5
+Low,MBL39,Mobile Phones,2003,Tier 2,Small,Multibrand Superstore,OUT051,0.257896,0.22,2627.57,3
+Low,TBL40,Tablet,2003,Tier 1,Small,Electronics Hub - Type 2,OUT052,0.6094486,0.32,1178.74,2
+Low,MBL89,Mobile Phones,2017,Tier 3,Small,Electronics Hub - Type 1,OUT053,0.6357541,0.16,614.17,5
+Medium,LPC71,Laptop and PC,2012,Tier 2,Large,Electronics Hub - Type 2,OUT054,0.4344731,1.89,1058.35,5
+Medium,LPC37,Laptop and PC,2007,Tier 3,Medium,Electronics Hub - Type 2,OUT055,0.2295045,3.34,1696.9,5
+Low,MBL25,Mobile Phones,2016,Tier 1,Medium,Multibrand Superstore,OUT056,0.9062707,0.24,2331.99,5
+High,HMA64,Home Appliance,2017,Tier 3,Small,Official Brand Store,OUT057,0.4759177,18.94,1954.39,4
+Low,MBL35,Mobile Phones,2014,Tier 2,Large,Electronics Hub - Type 1,OUT058,0.313442,0.31,2581.79,5
+Low,MBL57,Mobile Phones,2011,Tier 2,Medium,Multibrand Superstore,OUT059,0.514169,0.33,2092.61,5
+High,HMA14,Home Appliance,2008,Tier 1,Small,Electronics Hub - Type 2,OUT060,0.0715301,26.4,1657.36,3
+Low,TBL96,Tablet,2017,Tier 3,Medium,Multibrand Superstore,OUT061,0.8113881,0.31,2735.18,3
+Medium,AUD99,Audio Equipment,2010,Tier 1,Large,Official Brand Store,OUT062,0.2834361,3.06,1693.57,4
+Medium,AUD83,Audio Equipment,2013,Tier 1,Large,Electronics Hub - Type 2,OUT063,0.2322836,3.62,2853.13,1
+Low,TBL79,Tablet,2002,Tier 2,Small,Multibrand Superstore,OUT064,0.0989645,0.37,2077.07,5
+Low,SWR88,Smart Wearables,2012,Tier 1,Small,Official Brand Store,OUT065,0.9241248,0.13,2771.46,1
+Medium,AUD97,Audio Equipment,2008,Tier 1,Medium,Electronics Hub - Type 1,OUT066,0.8841755,1.88,1691.66,4
+Low,TBL22,Tablet,2002,Tier 2,Small,Official Brand Store,OUT067,0.212319,0.53,2624.89,4
+Medium,LPC20,Laptop and PC,2003,Tier 2,Small,Electronics Hub - Type 2,OUT068,0.1100445,2.6,1161.88,4
+Medium,AUD54,Audio Equipment,2001,Tier 2,Large,Multibrand Superstore,OUT069,0.1618402,1.15,1996.67,5
+Low,TBL13,Tablet,2014,Tier 3,Small,Official Brand Store,OUT070,0.1645233,0.57,1227.7,5
+Medium,AUD90,Audio Equipment,2012,Tier 2,Medium,Multibrand Superstore,OUT071,0.1436055,1.61,629.22,3
+Medium,AUD96,Audio Equipment,2000,Tier 2,Large,Electronics Hub - Type 1,OUT072,0.1406942,2.36,513.1,4
+Low,TBL31,Tablet,2012,Tier 3,Large,Official Brand Store,OUT073,0.2818448,0.52,938.38,4
+Medium,AUD86,Audio Equipment,2009,Tier 2,Small,Official Brand Store,OUT074,0.6399017,3.03,2962.12,2
+High,HMA47,Home Appliance,2019,Tier 2,Large,Electronics Hub - Type 1,OUT075,0.6877999,24.94,505.38,4
+Low,TBL11,Tablet,2014,Tier 3,Small,Official Brand Store,OUT070,0.7328022,0.35,2093.7,3
+Medium,LPC56,Laptop and PC,2018,Tier 1,Medium,Electronics Hub - Type 2,OUT076,0.7889488,1.87,1943.88,3
+Medium,AUD53,Audio Equipment,2006,Tier 1,Medium,Official Brand Store,OUT077,0.3514912,1.1,1764.66,4
+Low,SWR62,Smart Wearables,2009,Tier 3,Medium,Multibrand Superstore,OUT078,0.1142452,0.11,2406.98,4
+Medium,AUD78,Audio Equipment,2016,Tier 3,Large,Electronics Hub - Type 2,OUT079,0.6044864,1,411.56,5
+Low,SWR21,Smart Wearables,2009,Tier 1,Large,Multibrand Superstore,OUT080,0.3364173,0.16,686.39,5
+Low,MBL66,Mobile Phones,2016,Tier 2,Large,Electronics Hub - Type 2,OUT081,0.6536244,0.16,959.5,2
+Medium,LPC31,Laptop and PC,2020,Tier 3,Large,Electronics Hub - Type 1,OUT082,0.978817,1.67,1332.28,4
+Medium,LPC93,Laptop and PC,2012,Tier 3,Medium,Official Brand Store,OUT083,0.4954456,2.18,1219.86,3
+Low,TBL96,Tablet,2009,Tier 1,Medium,Electronics Hub - Type 1,OUT084,0.1858078,0.46,1534.52,4
+Medium,AUD38,Audio Equipment,2006,Tier 2,Medium,Multibrand Superstore,OUT017,0.7102162,1.47,2053.85,5
+High,HMA70,Home Appliance,2010,Tier 2,Medium,Multibrand Superstore,OUT028,0.4060546,9.15,1373.66,5
+Medium,LPC75,Laptop and PC,2013,Tier 2,Medium,Official Brand Store,OUT085,0.4457054,2.9,1116.87,5
+Low,TBL42,Tablet,2009,Tier 2,Medium,Official Brand Store,OUT086,0.3636114,0.37,1594.82,4
+Low,TBL80,Tablet,2009,Tier 3,Small,Multibrand Superstore,OUT087,0.4710976,0.3,1189.71,4
+Medium,AUD15,Audio Equipment,2004,Tier 1,Large,Electronics Hub - Type 2,OUT088,0.0758476,0.82,995.72,4
+Medium,AUD69,Audio Equipment,2013,Tier 1,Large,Electronics Hub - Type 2,OUT063,0.1917657,1.06,2942.45,5
+Low,TBL34,Tablet,2011,Tier 3,Small,Official Brand Store,OUT089,0.447689,0.4,2530.74,3
+High,HMA67,Home Appliance,2018,Tier 3,Medium,Electronics Hub - Type 1,OUT090,0.7908493,18.01,1491.28,4
+Low,MBL57,Mobile Phones,2009,Tier 3,Large,Official Brand Store,OUT091,0.8257257,0.15,894.75,5
+Low,TBL69,Tablet,2003,Tier 1,Large,Official Brand Store,OUT092,0.8789856,0.56,254.01,5
+Low,SWR89,Smart Wearables,2007,Tier 1,Medium,Official Brand Store,OUT093,0.7241791,0.17,1081.83,2
+Low,TBL59,Tablet,2005,Tier 3,Small,Official Brand Store,OUT094,0.7664653,0.38,1930.31,4
+Medium,LPC38,Laptop and PC,2000,Tier 1,Medium,Multibrand Superstore,OUT095,0.8451211,2,419.26,4
+Low,MBL99,Mobile Phones,2010,Tier 3,Large,Official Brand Store,OUT096,0.8864644,0.16,1264.39,4
+Medium,AUD56,Audio Equipment,2012,Tier 1,Large,Multibrand Superstore,OUT097,0.7634025,0.6,1653.92,4
+Low,TBL66,Tablet,2006,Tier 2,Large,Multibrand Superstore,OUT098,0.2568719,0.44,2441.88,3
+Low,TBL87,Tablet,2006,Tier 1,Medium,Electronics Hub - Type 2,OUT099,0.0846881,0.52,1714.29,5
+Medium,AUD31,Audio Equipment,2012,Tier 2,Medium,Electronics Hub - Type 1,OUT100,0.6106562,3.39,2915.61,4
+Medium,AUD78,Audio Equipment,2010,Tier 3,Small,Multibrand Superstore,OUT101,0.4035239,3.84,905.64,5
+High,HMA54,Home Appliance,2000,Tier 1,Medium,Multibrand Superstore,OUT095,0.9925482,16.46,1370.27,4
+Medium,LPC10,Laptop and PC,2002,Tier 3,Medium,Electronics Hub - Type 1,OUT102,0.8540958,1.94,2570.29,5
+Medium,AUD23,Audio Equipment,2013,Tier 3,Small,Multibrand Superstore,OUT103,0.6599076,1.29,257.95,5
+Medium,AUD23,Audio Equipment,2012,Tier 3,Small,Electronics Hub - Type 2,OUT104,0.3069841,3.61,2875.38,5
+Low,TBL95,Tablet,2002,Tier 3,Medium,Electronics Hub - Type 2,OUT105,0.3459226,0.36,1941.16,4
+Low,SWR15,Smart Wearables,2001,Tier 3,Medium,Electronics Hub - Type 2,OUT106,0.4730601,0.1,2381.99,5
+High,HMA76,Home Appliance,2003,Tier 1,Medium,Electronics Hub - Type 1,OUT107,0.37648,31.06,1628.38,4
+High,HMA15,Home Appliance,2003,Tier 2,Small,Electronics Hub - Type 1,OUT108,0.7169265,19.33,743.36,5
+High,HMA14,Home Appliance,2009,Tier 2,Large,Electronics Hub - Type 1,OUT109,0.3164401,23.43,361.17,4
+Low,TBL80,Tablet,2014,Tier 2,Small,Multibrand Superstore,OUT110,0.9920189,0.57,2080.48,3
+Low,MBL68,Mobile Phones,2020,Tier 2,Medium,Electronics Hub - Type 2,OUT111,0.5638326,0.14,2335.48,5
+Low,MBL81,Mobile Phones,2006,Tier 2,Medium,Electronics Hub - Type 2,OUT112,0.4038699,0.17,2821.1,5
+High,HMA57,Home Appliance,2014,Tier 3,Small,Official Brand Store,OUT070,0.981169,38.71,1226.61,1
+Medium,AUD64,Audio Equipment,2018,Tier 2,Small,Official Brand Store,OUT113,0.3404762,1.25,2889.25,5
+Low,MBL80,Mobile Phones,2009,Tier 1,Large,Electronics Hub - Type 1,OUT114,0.1504223,0.38,844.88,5
+Medium,LPC20,Laptop and PC,2005,Tier 2,Large,Multibrand Superstore,OUT115,0.4223734,1.76,581.71,5
+Low,TBL38,Tablet,2018,Tier 2,Medium,Electronics Hub - Type 2,OUT116,0.5695624,0.56,2556.61,4
+Medium,AUD99,Audio Equipment,2019,Tier 1,Large,Electronics Hub - Type 2,OUT117,0.0715425,2.06,1262.33,4
+Low,MBL12,Mobile Phones,2001,Tier 1,Medium,Electronics Hub - Type 2,OUT020,0.1666236,0.17,1408.35,4
+Low,TBL37,Tablet,2020,Tier 1,Medium,Electronics Hub - Type 1,OUT118,0.3483349,0.41,1509.62,3
+Low,SWR40,Smart Wearables,2003,Tier 1,Small,Official Brand Store,OUT119,0.5975036,0.15,2836.28,3
+Low,SWR44,Smart Wearables,2010,Tier 1,Small,Electronics Hub - Type 2,OUT120,0.2391782,0.11,377.76,4
+Low,TBL48,Tablet,2014,Tier 2,Large,Electronics Hub - Type 1,OUT058,0.0396847,0.31,1822.75,4
+Low,MBL21,Mobile Phones,2006,Tier 1,Large,Electronics Hub - Type 2,OUT121,0.339437,0.13,1384.27,3
+Low,SWR71,Smart Wearables,2004,Tier 3,Medium,Multibrand Superstore,OUT122,0.7420835,0.16,1501.25,3
+Low,SWR25,Smart Wearables,2005,Tier 1,Small,Electronics Hub - Type 2,OUT123,0.8020468,0.14,1580.44,4
+Medium,LPC29,Laptop and PC,2009,Tier 2,Large,Multibrand Superstore,OUT124,0.6108155,3.04,2953.54,5
+Medium,AUD55,Audio Equipment,2016,Tier 3,Small,Electronics Hub - Type 1,OUT125,0.7330582,1.35,1918.46,5
+Medium,LPC92,Laptop and PC,2001,Tier 2,Large,Electronics Hub - Type 1,OUT126,0.6039011,2.8,2464.61,4
+Medium,LPC84,Laptop and PC,2018,Tier 2,Large,Multibrand Superstore,OUT127,0.6986592,1.93,2852.63,5
+Low,SWR40,Smart Wearables,2005,Tier 3,Large,Electronics Hub - Type 1,OUT128,0.3210909,0.1,441.03,4
+Medium,LPC61,Laptop and PC,2004,Tier 2,Medium,Electronics Hub - Type 1,OUT129,0.4757083,2.52,1814.52,3
+Medium,AUD67,Audio Equipment,2008,Tier 2,Large,Electronics Hub - Type 1,OUT026,0.0114509,3.9,2458.7,5
+Low,MBL47,Mobile Phones,2020,Tier 2,Small,Official Brand Store,OUT130,0.1450527,0.15,770.07,4
+Low,TBL37,Tablet,2008,Tier 3,Medium,Official Brand Store,OUT131,0.8768597,0.52,2464.3,2
+Low,TBL53,Tablet,2018,Tier 2,Small,Multibrand Superstore,OUT132,0.7018208,0.49,1907.62,3
+Medium,LPC21,Laptop and PC,2019,Tier 2,Large,Electronics Hub - Type 2,OUT133,0.082214,2.08,1251.49,5
+Low,SWR90,Smart Wearables,2005,Tier 1,Small,Electronics Hub - Type 2,OUT123,0.3006208,0.14,1487.77,5
+High,HMA96,Home Appliance,2020,Tier 3,Small,Electronics Hub - Type 2,OUT134,0.5277471,27.83,1017.31,4
+Low,SWR77,Smart Wearables,2010,Tier 3,Small,Official Brand Store,OUT045,0.2009234,0.18,540.98,4
+Medium,AUD12,Audio Equipment,2019,Tier 3,Small,Electronics Hub - Type 1,OUT135,0.1637846,1.81,662.07,5
+Low,SWR29,Smart Wearables,2017,Tier 2,Large,Electronics Hub - Type 1,OUT136,0.1208277,0.07,2214.27,4
+Medium,LPC52,Laptop and PC,2004,Tier 3,Medium,Electronics Hub - Type 2,OUT137,0.3298948,3.39,2803.75,1
+Medium,LPC11,Laptop and PC,2011,Tier 3,Medium,Official Brand Store,OUT138,0.7276947,3.47,1891.56,3
+Low,MBL76,Mobile Phones,2007,Tier 1,Medium,Multibrand Superstore,OUT139,0.860977,0.23,2862.82,3
+Medium,AUD15,Audio Equipment,2004,Tier 3,Large,Electronics Hub - Type 1,OUT140,0.2553438,3.7,2225.08,5
+Medium,AUD54,Audio Equipment,2002,Tier 1,Small,Electronics Hub - Type 1,OUT141,0.5432285,3.96,1207.1,5
+Medium,LPC45,Laptop and PC,2014,Tier 3,Small,Electronics Hub - Type 2,OUT033,0.7209789,2.19,2355.14,5
+Low,SWR10,Smart Wearables,2012,Tier 3,Medium,Multibrand Superstore,OUT142,0.4797849,0.2,2313.46,5
+Low,MBL92,Mobile Phones,2012,Tier 2,Small,Official Brand Store,OUT143,0.4987309,0.23,889.66,5
+High,HMA78,Home Appliance,2010,Tier 1,Medium,Official Brand Store,OUT144,0.8649657,19.47,894.15,4
+Low,TBL30,Tablet,2003,Tier 1,Large,Multibrand Superstore,OUT145,0.6456198,0.48,1221.64,5
+Medium,LPC35,Laptop and PC,2020,Tier 3,Large,Electronics Hub - Type 1,OUT082,0.8016421,2.03,1173.37,5
+Low,TBL19,Tablet,2012,Tier 3,Large,Official Brand Store,OUT073,0.3858505,0.35,431.25,5
+Low,SWR19,Smart Wearables,2003,Tier 1,Medium,Multibrand Superstore,OUT146,0.1981015,0.19,1157.31,5
+Low,MBL67,Mobile Phones,2007,Tier 3,Small,Electronics Hub - Type 2,OUT147,0.0950619,0.16,1358.57,4
+High,HMA79,Home Appliance,2011,Tier 3,Large,Electronics Hub - Type 2,OUT148,0.397979,5.48,282.69,4
+Low,TBL31,Tablet,2015,Tier 2,Small,Multibrand Superstore,OUT149,0.640746,0.56,2091.89,4
+Low,SWR99,Smart Wearables,2003,Tier 2,Medium,Multibrand Superstore,OUT150,0.6114365,0.1,2982.36,5
+Low,MBL59,Mobile Phones,2017,Tier 2,Medium,Multibrand Superstore,OUT151,0.4665693,0.29,2911.83,3
+High,HMA43,Home Appliance,2008,Tier 3,Medium,Electronics Hub - Type 2,OUT152,0.7048159,32.93,2243.54,4
+Medium,LPC87,Laptop and PC,2010,Tier 2,Large,Electronics Hub - Type 2,OUT153,0.7657426,2.62,432.19,5
+Medium,AUD58,Audio Equipment,2003,Tier 3,Large,Electronics Hub - Type 1,OUT154,0.949993,2.78,2577.65,5
+Low,TBL33,Tablet,2018,Tier 1,Medium,Multibrand Superstore,OUT155,0.0945812,0.38,1089.38,4
+Medium,AUD95,Audio Equipment,2003,Tier 2,Large,Official Brand Store,OUT156,0.1987409,2.48,2032,5
+High,HMA69,Home Appliance,2012,Tier 2,Large,Electronics Hub - Type 1,OUT157,0.7991182,28.11,200.02,1
+Low,MBL80,Mobile Phones,2018,Tier 3,Small,Multibrand Superstore,OUT158,0.6772475,0.24,2893.69,3
+Medium,LPC90,Laptop and PC,2018,Tier 1,Large,Official Brand Store,OUT159,0.4771492,2.47,1997.16,5
+Medium,LPC71,Laptop and PC,2018,Tier 3,Small,Electronics Hub - Type 2,OUT160,0.7101336,1.27,2377.98,5
+Low,MBL58,Mobile Phones,2008,Tier 1,Small,Electronics Hub - Type 1,OUT161,0.0233877,0.33,1456.8,5
+Low,TBL86,Tablet,2008,Tier 1,Large,Electronics Hub - Type 1,OUT162,0.1676086,0.56,476.11,5
+Medium,LPC43,Laptop and PC,2000,Tier 3,Large,Official Brand Store,OUT163,0.3048765,2.23,107.34,3
+Medium,AUD50,Audio Equipment,2000,Tier 1,Small,Electronics Hub - Type 2,OUT164,0.5922657,3.36,211.5,5
+Medium,LPC15,Laptop and PC,2020,Tier 2,Small,Official Brand Store,OUT130,0.8963598,2.96,934.72,4
+Medium,AUD21,Audio Equipment,2006,Tier 3,Large,Electronics Hub - Type 2,OUT038,0.7726804,0.7,1131.12,4
+Low,TBL87,Tablet,2014,Tier 2,Small,Electronics Hub - Type 2,OUT165,0.5809606,0.57,2613.18,3
+Medium,LPC36,Laptop and PC,2014,Tier 3,Medium,Official Brand Store,OUT166,0.9177456,2.5,564.08,4
+Low,SWR56,Smart Wearables,2002,Tier 2,Large,Official Brand Store,OUT167,0.6108975,0.1,1074.08,3
+Low,MBL16,Mobile Phones,2008,Tier 1,Large,Electronics Hub - Type 1,OUT162,0.2050395,0.13,661.01,4
+Medium,LPC98,Laptop and PC,2012,Tier 3,Medium,Multibrand Superstore,OUT142,0.350122,3.16,190.24,4
+Low,MBL64,Mobile Phones,2004,Tier 1,Large,Multibrand Superstore,OUT168,0.4841493,0.31,2095.87,5
+Low,MBL29,Mobile Phones,2006,Tier 3,Medium,Electronics Hub - Type 2,OUT169,0.4082036,0.25,290.31,3
+Low,TBL49,Tablet,2004,Tier 1,Large,Electronics Hub - Type 1,OUT170,0.357477,0.55,1758.51,4
+Medium,AUD67,Audio Equipment,2013,Tier 2,Large,Multibrand Superstore,OUT171,0.4699356,3.73,2391.66,4
+Medium,LPC62,Laptop and PC,2007,Tier 2,Small,Multibrand Superstore,OUT019,0.2658821,2.62,833.22,5
+Medium,AUD52,Audio Equipment,2017,Tier 1,Medium,Multibrand Superstore,OUT172,0.645494,3.75,2747.06,4
+High,HMA96,Home Appliance,2017,Tier 3,Medium,Electronics Hub - Type 2,OUT173,0.6642346,22.14,1738.17,4
+Medium,LPC70,Laptop and PC,2007,Tier 1,Medium,Official Brand Store,OUT093,0.0623411,1.8,591.15,4
+High,HMA51,Home Appliance,2019,Tier 1,Large,Multibrand Superstore,OUT174,0.885865,35.84,516.47,3
+High,HMA60,Home Appliance,2001,Tier 2,Large,Electronics Hub - Type 1,OUT126,0.7422593,39.11,1542.06,4
+Low,MBL63,Mobile Phones,2005,Tier 1,Medium,Official Brand Store,OUT175,0.062606,0.21,2040.14,4
+High,HMA31,Home Appliance,2002,Tier 1,Small,Electronics Hub - Type 2,OUT176,0.1674092,29.98,302.27,5
+High,HMA29,Home Appliance,2019,Tier 1,Large,Electronics Hub - Type 2,OUT117,0.1348384,25.02,1356.45,5
+Medium,AUD94,Audio Equipment,2019,Tier 2,Medium,Multibrand Superstore,OUT177,0.4365752,1.18,2797.88,5
+Low,MBL19,Mobile Phones,2013,Tier 1,Large,Electronics Hub - Type 2,OUT063,0.6780358,0.19,1925.3,4
+Low,MBL44,Mobile Phones,2008,Tier 3,Large,Multibrand Superstore,OUT178,0.1830811,0.39,487.58,4
+Medium,AUD30,Audio Equipment,2020,Tier 3,Large,Electronics Hub - Type 1,OUT082,0.6748456,2.79,1584.65,3
+Low,MBL75,Mobile Phones,2014,Tier 3,Small,Official Brand Store,OUT070,0.469023,0.29,544.97,5
+Medium,LPC71,Laptop and PC,2017,Tier 3,Medium,Electronics Hub - Type 1,OUT179,0.1596597,2.69,127.84,4
+Medium,AUD28,Audio Equipment,2019,Tier 2,Small,Multibrand Superstore,OUT180,0.0797681,2.47,1876.13,4
+Medium,LPC52,Laptop and PC,2003,Tier 3,Small,Electronics Hub - Type 2,OUT181,0.6648767,3.39,2348.81,5
+Low,SWR96,Smart Wearables,2016,Tier 3,Large,Electronics Hub - Type 1,OUT182,0.9178772,0.06,771.8,5
+Low,MBL27,Mobile Phones,2003,Tier 1,Medium,Electronics Hub - Type 1,OUT107,0.6545018,0.25,2704.1,5
+Low,SWR82,Smart Wearables,2010,Tier 1,Small,Multibrand Superstore,OUT183,0.7942924,0.12,147.98,4
+Low,TBL50,Tablet,2006,Tier 2,Medium,Electronics Hub - Type 2,OUT112,0.0383446,0.59,1458.19,4
+Low,TBL90,Tablet,2012,Tier 3,Large,Official Brand Store,OUT073,0.1548327,0.56,2783.99,4
+Low,SWR72,Smart Wearables,2015,Tier 2,Large,Multibrand Superstore,OUT184,0.0789546,0.13,136.2,5
+High,HMA19,Home Appliance,2019,Tier 1,Large,Electronics Hub - Type 2,OUT117,0.2638584,15.12,218.08,4
+Low,MBL79,Mobile Phones,2008,Tier 1,Small,Official Brand Store,OUT185,0.8688163,0.22,1193.96,5
+Low,TBL81,Tablet,2007,Tier 1,Large,Electronics Hub - Type 1,OUT186,0.9210534,0.49,1151.86,5
+Low,SWR40,Smart Wearables,2016,Tier 2,Medium,Multibrand Superstore,OUT187,0.8463517,0.12,172.06,4
+Low,MBL45,Mobile Phones,2014,Tier 3,Small,Electronics Hub - Type 2,OUT033,0.8427413,0.39,2210.61,3
+Low,MBL41,Mobile Phones,2019,Tier 1,Small,Multibrand Superstore,OUT188,0.5539305,0.33,1812.65,5
+Medium,AUD93,Audio Equipment,2002,Tier 2,Small,Official Brand Store,OUT067,0.0155166,2.19,1770.77,4
+High,HMA29,Home Appliance,2010,Tier 2,Medium,Electronics Hub - Type 2,OUT189,0.3208866,31.51,1485.32,4
+Low,SWR80,Smart Wearables,2003,Tier 3,Medium,Electronics Hub - Type 1,OUT190,0.2689148,0.12,1239.52,5
+Medium,LPC10,Laptop and PC,2015,Tier 3,Medium,Electronics Hub - Type 2,OUT191,0.7756773,2.43,513.08,4
+Medium,AUD71,Audio Equipment,2005,Tier 1,Large,Official Brand Store,OUT192,0.0981399,3.3,994.46,3
+Medium,LPC77,Laptop and PC,2004,Tier 3,Small,Multibrand Superstore,OUT193,0.212295,2.31,2358.31,4
+Medium,LPC85,Laptop and PC,2009,Tier 1,Medium,Electronics Hub - Type 1,OUT084,0.9333607,2.66,279.94,5
+Low,MBL39,Mobile Phones,2011,Tier 1,Large,Multibrand Superstore,OUT194,0.1743975,0.12,2043.22,3
+Low,TBL29,Tablet,2012,Tier 3,Small,Electronics Hub - Type 2,OUT104,0.9716973,0.53,2854.58,5
+Low,MBL30,Mobile Phones,2010,Tier 2,Large,Electronics Hub - Type 2,OUT153,0.273974,0.2,648.22,5
+High,HMA76,Home Appliance,2008,Tier 2,Small,Multibrand Superstore,OUT034,0.4829847,21.66,2705.85,4
+Low,MBL43,Mobile Phones,2019,Tier 1,Small,Electronics Hub - Type 1,OUT195,0.6648784,0.28,2639.64,4
+Medium,AUD47,Audio Equipment,2011,Tier 1,Large,Electronics Hub - Type 2,OUT196,0.5880856,3.7,1578.58,4
+Low,MBL64,Mobile Phones,2008,Tier 3,Small,Official Brand Store,OUT197,0.1144658,0.19,778.43,4
+Low,MBL44,Mobile Phones,2010,Tier 2,Large,Multibrand Superstore,OUT198,0.3967274,0.37,2983.59,5
+Medium,AUD33,Audio Equipment,2008,Tier 2,Large,Official Brand Store,OUT199,0.3178894,2.49,535.62,3
+Low,MBL73,Mobile Phones,2017,Tier 3,Small,Multibrand Superstore,OUT200,0.85669,0.35,1833.74,1
+Medium,AUD30,Audio Equipment,2013,Tier 3,Large,Multibrand Superstore,OUT201,0.5723396,2.45,2992.39,5
+Medium,LPC19,Laptop and PC,2010,Tier 2,Large,Electronics Hub - Type 2,OUT153,0.9817978,2.92,1771.43,3
+Low,SWR26,Smart Wearables,2000,Tier 2,Medium,Electronics Hub - Type 1,OUT202,0.3885885,0.17,2794.04,4
+Low,TBL34,Tablet,2000,Tier 2,Small,Official Brand Store,OUT203,0.6918329,0.44,1954.67,4
+Low,TBL93,Tablet,2015,Tier 3,Medium,Electronics Hub - Type 2,OUT191,0.9381241,0.54,2115.48,5
+Low,TBL88,Tablet,2014,Tier 1,Medium,Electronics Hub - Type 1,OUT204,0.4460983,0.49,451.33,5
+Medium,LPC19,Laptop and PC,2007,Tier 1,Small,Electronics Hub - Type 2,OUT205,0.5713898,2.86,2138.26,5
+Medium,LPC36,Laptop and PC,2000,Tier 3,Medium,Official Brand Store,OUT206,0.5488181,1.47,1779.42,5
+Low,MBL87,Mobile Phones,2003,Tier 3,Small,Electronics Hub - Type 1,OUT207,0.9246766,0.25,1797.16,5
+Low,MBL56,Mobile Phones,2006,Tier 2,Small,Multibrand Superstore,OUT014,0.4141357,0.17,1974.27,4
+Low,SWR54,Smart Wearables,2020,Tier 2,Large,Electronics Hub - Type 2,OUT208,0.6700375,0.08,2859.09,4
+Low,SWR87,Smart Wearables,2006,Tier 1,Small,Electronics Hub - Type 1,OUT209,0.9519938,0.18,839.47,5
+Low,SWR24,Smart Wearables,2005,Tier 3,Medium,Multibrand Superstore,OUT210,0.8161884,0.19,2595.07,5
+High,HMA29,Home Appliance,2007,Tier 3,Small,Multibrand Superstore,OUT211,0.6837998,32.66,1564.48,2
+Medium,AUD64,Audio Equipment,2009,Tier 1,Medium,Official Brand Store,OUT212,0.5842413,2.06,1062.24,2
+Low,MBL96,Mobile Phones,2014,Tier 1,Medium,Multibrand Superstore,OUT213,0.0270215,0.12,138.79,4
+Medium,LPC93,Laptop and PC,2006,Tier 1,Small,Multibrand Superstore,OUT214,0.6182276,1.38,315.32,4
+Medium,AUD17,Audio Equipment,2013,Tier 1,Small,Multibrand Superstore,OUT215,0.100575,1.44,146.23,2
+Low,TBL45,Tablet,2019,Tier 3,Medium,Official Brand Store,OUT216,0.7391272,0.39,2865.96,4
+Low,SWR28,Smart Wearables,2001,Tier 1,Large,Official Brand Store,OUT217,0.0655126,0.1,2260.33,2
+Medium,AUD58,Audio Equipment,2005,Tier 3,Medium,Official Brand Store,OUT218,0.4162574,3.15,1855.98,4
+Medium,AUD86,Audio Equipment,2014,Tier 1,Medium,Electronics Hub - Type 2,OUT219,0.5466346,3.82,1391.22,4
+Low,MBL96,Mobile Phones,2005,Tier 3,Small,Electronics Hub - Type 1,OUT220,0.7694781,0.31,366.93,4
+Low,SWR33,Smart Wearables,2007,Tier 1,Large,Electronics Hub - Type 2,OUT221,0.9578802,0.19,1938.89,4
+Low,TBL99,Tablet,2008,Tier 2,Small,Electronics Hub - Type 2,OUT222,0.8357029,0.54,796.25,5
+Medium,LPC83,Laptop and PC,2013,Tier 3,Medium,Multibrand Superstore,OUT223,0.2370319,1.61,2567.74,4
+Low,MBL79,Mobile Phones,2002,Tier 3,Medium,Official Brand Store,OUT224,0.1600949,0.28,1716.03,4
+Low,MBL41,Mobile Phones,2011,Tier 3,Large,Electronics Hub - Type 2,OUT148,0.2389096,0.34,1035.49,5
+Low,MBL24,Mobile Phones,2009,Tier 3,Small,Electronics Hub - Type 1,OUT225,0.9871639,0.18,2116.77,5
+High,HMA73,Home Appliance,2001,Tier 2,Large,Electronics Hub - Type 2,OUT226,0.8846062,26.64,877.92,5
+Medium,AUD65,Audio Equipment,2003,Tier 3,Large,Multibrand Superstore,OUT227,0.2551616,1.05,2787.72,4
+Medium,AUD37,Audio Equipment,2016,Tier 3,Large,Electronics Hub - Type 1,OUT182,0.7733092,0.75,2302.37,3
+High,HMA66,Home Appliance,2009,Tier 1,Small,Electronics Hub - Type 1,OUT015,0.5579301,19.03,880.5,1
+Low,MBL75,Mobile Phones,2018,Tier 2,Small,Electronics Hub - Type 2,OUT228,0.9809082,0.15,2718.59,1
+High,HMA12,Home Appliance,2018,Tier 1,Large,Official Brand Store,OUT159,0.2743957,14.11,2826.04,4
+Low,MBL83,Mobile Phones,2011,Tier 3,Large,Electronics Hub - Type 2,OUT148,0.2978157,0.36,2970.94,5
+Medium,LPC24,Laptop and PC,2010,Tier 3,Small,Electronics Hub - Type 2,OUT229,0.5171389,2.82,725.84,3
+Low,MBL60,Mobile Phones,2011,Tier 1,Small,Official Brand Store,OUT230,0.663971,0.23,1022.17,5
+Low,TBL15,Tablet,2002,Tier 3,Small,Multibrand Superstore,OUT231,0.4271209,0.49,2481.93,5
+High,HMA62,Home Appliance,2013,Tier 3,Small,Official Brand Store,OUT042,0.6554231,7.85,1864.39,5
+Medium,LPC55,Laptop and PC,2003,Tier 1,Medium,Official Brand Store,OUT232,0.1873218,1.25,1786.89,5
+Medium,AUD63,Audio Equipment,2020,Tier 3,Medium,Electronics Hub - Type 2,OUT233,0.2813735,0.89,229.77,5
+Low,MBL70,Mobile Phones,2013,Tier 3,Medium,Official Brand Store,OUT234,0.6906205,0.23,548.8,5
+High,HMA82,Home Appliance,2016,Tier 2,Medium,Multibrand Superstore,OUT187,0.6819516,25.51,2069.43,5
+Medium,AUD83,Audio Equipment,2020,Tier 3,Large,Multibrand Superstore,OUT235,0.7325391,1.88,1140.66,4
+High,HMA32,Home Appliance,2002,Tier 1,Large,Electronics Hub - Type 1,OUT236,0.8862097,9.16,1687.85,4
+Medium,AUD61,Audio Equipment,2015,Tier 2,Small,Official Brand Store,OUT036,0.7558799,3.6,1701.73,5
+Low,SWR74,Smart Wearables,2009,Tier 1,Large,Electronics Hub - Type 1,OUT114,0.757364,0.07,1960.53,5
+High,HMA87,Home Appliance,2010,Tier 1,Large,Multibrand Superstore,OUT237,0.2808741,30.57,2390.73,5
+Medium,AUD47,Audio Equipment,2008,Tier 3,Medium,Electronics Hub - Type 2,OUT152,0.9088462,0.82,1168.66,5
+Low,MBL86,Mobile Phones,2008,Tier 2,Small,Electronics Hub - Type 1,OUT238,0.8668412,0.37,2638.85,4
+Low,TBL86,Tablet,2005,Tier 2,Medium,Electronics Hub - Type 2,OUT239,0.8155361,0.51,440.79,5
+Low,TBL55,Tablet,2017,Tier 2,Medium,Electronics Hub - Type 2,OUT240,0.2221595,0.49,491.08,5
+Low,TBL83,Tablet,2015,Tier 3,Large,Electronics Hub - Type 1,OUT241,0.3789003,0.39,370.34,4
+Low,MBL95,Mobile Phones,2000,Tier 1,Medium,Official Brand Store,OUT021,0.2391083,0.35,144.39,4
+Medium,LPC46,Laptop and PC,2015,Tier 1,Medium,Official Brand Store,OUT242,0.936271,1.52,2297.74,4
+Low,SWR18,Smart Wearables,2009,Tier 1,Small,Electronics Hub - Type 2,OUT243,0.8521996,0.08,1460.48,4
+Low,TBL19,Tablet,2002,Tier 1,Medium,Electronics Hub - Type 2,OUT244,0.2501836,0.43,1581.88,4
+High,HMA27,Home Appliance,2017,Tier 1,Small,Electronics Hub - Type 1,OUT046,0.2488171,23.53,1741.82,4
+Medium,LPC19,Laptop and PC,2018,Tier 2,Medium,Electronics Hub - Type 2,OUT116,0.3168322,3.35,598.62,4
+Low,SWR73,Smart Wearables,2000,Tier 3,Medium,Electronics Hub - Type 1,OUT245,0.9947772,0.2,1924.95,5
+Medium,AUD41,Audio Equipment,2016,Tier 2,Small,Electronics Hub - Type 1,OUT246,0.2740606,3.59,2970.69,5
+Low,SWR74,Smart Wearables,2003,Tier 2,Small,Electronics Hub - Type 2,OUT068,0.0538922,0.19,2445.4,4
+Medium,LPC97,Laptop and PC,2014,Tier 1,Small,Multibrand Superstore,OUT247,0.4137205,1.66,1214.01,5
+Medium,LPC29,Laptop and PC,2008,Tier 3,Medium,Electronics Hub - Type 2,OUT152,0.2061492,2.38,941.64,2
+Low,SWR71,Smart Wearables,2001,Tier 1,Large,Electronics Hub - Type 1,OUT248,0.5743092,0.07,2814.79,5
+Medium,AUD74,Audio Equipment,2018,Tier 2,Large,Official Brand Store,OUT249,0.0507994,1.49,372.3,4
+Medium,LPC86,Laptop and PC,2008,Tier 2,Large,Electronics Hub - Type 2,OUT250,0.7152169,2.19,1228.37,3
+Medium,LPC75,Laptop and PC,2004,Tier 3,Large,Official Brand Store,OUT251,0.8116597,2.87,2824.85,1
+Low,SWR68,Smart Wearables,2014,Tier 3,Medium,Multibrand Superstore,OUT252,0.0585964,0.13,1305.44,3
+High,HMA61,Home Appliance,2000,Tier 3,Small,Official Brand Store,OUT253,0.4202982,10.25,531.11,5
+Low,TBL40,Tablet,2017,Tier 2,Large,Multibrand Superstore,OUT254,0.3098125,0.57,1898.32,5
+Low,SWR49,Smart Wearables,2014,Tier 3,Large,Official Brand Store,OUT255,0.7418221,0.1,158.74,5
+High,HMA59,Home Appliance,2009,Tier 2,Medium,Electronics Hub - Type 2,OUT256,0.792726,14.34,1223.06,5
+Low,TBL24,Tablet,2002,Tier 2,Medium,Electronics Hub - Type 2,OUT257,0.7392927,0.34,260.93,4
+Low,TBL70,Tablet,2005,Tier 2,Medium,Electronics Hub - Type 2,OUT239,0.6234963,0.58,2944.11,4
+Low,TBL61,Tablet,2019,Tier 1,Large,Electronics Hub - Type 2,OUT117,0.7795803,0.5,1630.66,2
+Low,TBL21,Tablet,2013,Tier 1,Medium,Official Brand Store,OUT258,0.8140194,0.43,2253.39,4
+Medium,AUD78,Audio Equipment,2013,Tier 1,Small,Electronics Hub - Type 1,OUT259,0.2680934,3.27,1776.4,4
+Low,MBL20,Mobile Phones,2020,Tier 3,Medium,Electronics Hub - Type 2,OUT233,0.7869119,0.35,732.11,4
+Medium,LPC81,Laptop and PC,2018,Tier 2,Large,Electronics Hub - Type 2,OUT260,0.1338095,1.52,2984.03,3
+Low,TBL41,Tablet,2020,Tier 3,Large,Electronics Hub - Type 2,OUT261,0.7116025,0.57,2166.36,4
+High,HMA65,Home Appliance,2003,Tier 3,Large,Official Brand Store,OUT262,0.9592669,27.61,319.84,5
+Low,TBL41,Tablet,2007,Tier 1,Small,Official Brand Store,OUT263,0.8864916,0.47,1145.97,5
+Medium,LPC39,Laptop and PC,2016,Tier 2,Large,Electronics Hub - Type 2,OUT081,0.0289322,2.68,686.4,3
+High,HMA24,Home Appliance,2020,Tier 1,Large,Electronics Hub - Type 2,OUT264,0.3730381,20.99,1756.05,4
+Low,TBL37,Tablet,2006,Tier 2,Small,Multibrand Superstore,OUT014,0.9496599,0.34,2480.79,3
+Low,TBL11,Tablet,2012,Tier 1,Medium,Electronics Hub - Type 1,OUT265,0.1503286,0.53,2745.74,4
+Low,SWR14,Smart Wearables,2001,Tier 2,Small,Electronics Hub - Type 2,OUT266,0.3864649,0.13,1942.76,4
+Medium,LPC55,Laptop and PC,2007,Tier 2,Small,Official Brand Store,OUT267,0.0530423,1.7,146.62,5
+Low,MBL91,Mobile Phones,2004,Tier 2,Medium,Electronics Hub - Type 1,OUT129,0.2272361,0.14,2487,5
+Medium,AUD28,Audio Equipment,2016,Tier 3,Small,Multibrand Superstore,OUT268,0.6726733,2.75,2021.52,4
+Low,TBL43,Tablet,2017,Tier 2,Large,Official Brand Store,OUT269,0.7713633,0.52,941.92,4
+Low,SWR92,Smart Wearables,2020,Tier 3,Medium,Electronics Hub - Type 2,OUT233,0.157875,0.14,2263.29,4
+High,HMA18,Home Appliance,2000,Tier 1,Large,Official Brand Store,OUT270,0.7468,17.79,1830.84,3
+High,HMA12,Home Appliance,2002,Tier 3,Large,Official Brand Store,OUT271,0.4620762,11.52,2288.58,4
+Medium,LPC67,Laptop and PC,2000,Tier 3,Medium,Electronics Hub - Type 2,OUT272,0.1136264,2.83,1090.85,5
+Low,MBL96,Mobile Phones,2001,Tier 1,Large,Electronics Hub - Type 1,OUT248,0.0735053,0.37,326.94,4
+Medium,AUD31,Audio Equipment,2009,Tier 2,Small,Electronics Hub - Type 2,OUT273,0.2403603,2.79,1501.05,5
+Low,TBL38,Tablet,2017,Tier 1,Small,Electronics Hub - Type 1,OUT046,0.9949005,0.53,2884.67,4
+Medium,AUD87,Audio Equipment,2003,Tier 1,Medium,Electronics Hub - Type 1,OUT107,0.1001867,2.56,917.4,2
+Medium,LPC49,Laptop and PC,2015,Tier 3,Medium,Electronics Hub - Type 2,OUT191,0.2902378,2.28,1243.11,4
+Low,SWR62,Smart Wearables,2001,Tier 2,Large,Multibrand Superstore,OUT069,0.9351969,0.14,2288.43,3
+Medium,AUD13,Audio Equipment,2005,Tier 1,Small,Electronics Hub - Type 2,OUT123,0.4563334,1.74,2484.58,5
+Low,SWR94,Smart Wearables,2010,Tier 1,Medium,Multibrand Superstore,OUT274,0.8241422,0.15,2170.72,4
+Low,MBL78,Mobile Phones,2020,Tier 3,Large,Multibrand Superstore,OUT235,0.9321627,0.33,391.69,5
+Low,SWR70,Smart Wearables,2010,Tier 1,Small,Electronics Hub - Type 1,OUT275,0.7663288,0.07,1110.82,3
+Low,SWR82,Smart Wearables,2002,Tier 3,Medium,Electronics Hub - Type 2,OUT105,0.086556,0.07,266.38,3
+Medium,AUD99,Audio Equipment,2002,Tier 1,Large,Electronics Hub - Type 2,OUT276,0.2598778,2.27,338.19,5
+Medium,AUD71,Audio Equipment,2004,Tier 2,Large,Electronics Hub - Type 2,OUT277,0.291582,1.91,1699.96,5
+Low,SWR66,Smart Wearables,2009,Tier 3,Large,Electronics Hub - Type 2,OUT278,0.897978,0.16,877.42,4
+Low,SWR88,Smart Wearables,2008,Tier 2,Small,Official Brand Store,OUT279,0.1251272,0.08,1204.94,4
+High,HMA32,Home Appliance,2004,Tier 3,Large,Electronics Hub - Type 1,OUT140,0.1472601,32.67,179.83,2
+Low,TBL57,Tablet,2008,Tier 2,Large,Multibrand Superstore,OUT280,0.6488461,0.36,1314.36,4
+Medium,AUD44,Audio Equipment,2020,Tier 1,Large,Electronics Hub - Type 1,OUT002,0.585259,3.29,2747.3,5
+Medium,LPC61,Laptop and PC,2012,Tier 1,Small,Official Brand Store,OUT065,0.9512688,1.26,2169.72,1
+Low,TBL59,Tablet,2012,Tier 2,Large,Official Brand Store,OUT281,0.9221873,0.57,1314.57,5
+Medium,AUD37,Audio Equipment,2004,Tier 1,Small,Electronics Hub - Type 2,OUT282,0.7754014,3.06,1490.42,4
+Medium,LPC94,Laptop and PC,2020,Tier 3,Small,Electronics Hub - Type 2,OUT134,0.2806031,2.75,2345.02,3
+Low,TBL55,Tablet,2011,Tier 3,Medium,Electronics Hub - Type 2,OUT283,0.6164709,0.53,1275.04,5
+Low,TBL38,Tablet,2016,Tier 1,Small,Official Brand Store,OUT284,0.6244688,0.42,1844.63,5
+Low,MBL50,Mobile Phones,2009,Tier 2,Large,Official Brand Store,OUT285,0.8884388,0.32,1539.81,5
+Low,SWR85,Smart Wearables,2011,Tier 3,Large,Electronics Hub - Type 2,OUT148,0.6534918,0.13,1364.51,5
+Low,MBL16,Mobile Phones,2015,Tier 1,Large,Electronics Hub - Type 1,OUT286,0.8941286,0.32,2942.22,1
+Medium,AUD20,Audio Equipment,2004,Tier 1,Large,Electronics Hub - Type 1,OUT170,0.7552266,3.62,434.57,4
+Low,TBL29,Tablet,2007,Tier 3,Small,Electronics Hub - Type 1,OUT287,0.235043,0.42,236.31,4
+Low,TBL64,Tablet,2014,Tier 2,Large,Multibrand Superstore,OUT288,0.4961173,0.58,2588.47,5
+High,HMA19,Home Appliance,2003,Tier 2,Large,Electronics Hub - Type 1,OUT289,0.9346743,25.82,1238.39,4
+Low,SWR73,Smart Wearables,2013,Tier 3,Small,Multibrand Superstore,OUT103,0.1652338,0.13,722.81,5
+Low,MBL56,Mobile Phones,2015,Tier 2,Large,Official Brand Store,OUT290,0.2912459,0.38,2591.04,4
+Medium,AUD24,Audio Equipment,2018,Tier 2,Medium,Electronics Hub - Type 1,OUT291,0.4135184,2.37,586.27,5
+Low,MBL85,Mobile Phones,2001,Tier 1,Small,Electronics Hub - Type 1,OUT292,0.2004701,0.4,406.87,4
+High,HMA78,Home Appliance,2017,Tier 2,Medium,Electronics Hub - Type 2,OUT240,0.8048663,31.63,1113.32,5
+Low,SWR87,Smart Wearables,2001,Tier 1,Medium,Electronics Hub - Type 1,OUT293,0.4529766,0.14,2520.17,4
+High,HMA80,Home Appliance,2000,Tier 2,Small,Electronics Hub - Type 2,OUT294,0.4274419,9.75,321.04,5
+High,HMA63,Home Appliance,2003,Tier 2,Small,Multibrand Superstore,OUT051,0.5778205,11.41,955.7,5
+Low,SWR94,Smart Wearables,2007,Tier 2,Medium,Electronics Hub - Type 2,OUT295,0.1822212,0.11,1701.55,4
+Low,SWR60,Smart Wearables,2001,Tier 1,Small,Official Brand Store,OUT296,0.3759837,0.18,714.65,4
+High,HMA36,Home Appliance,2011,Tier 1,Small,Official Brand Store,OUT230,0.2840194,8.4,2122.44,5
+Low,SWR72,Smart Wearables,2014,Tier 2,Medium,Electronics Hub - Type 2,OUT297,0.2285,0.08,727.73,4
+Medium,AUD31,Audio Equipment,2014,Tier 1,Large,Multibrand Superstore,OUT298,0.5982701,2.6,2091.94,4
+Low,SWR24,Smart Wearables,2010,Tier 1,Medium,Electronics Hub - Type 2,OUT299,0.8137677,0.09,1607.23,5
+Low,SWR52,Smart Wearables,2001,Tier 1,Small,Multibrand Superstore,OUT300,0.9353922,0.14,2881.89,5
+Low,SWR98,Smart Wearables,2005,Tier 2,Small,Electronics Hub - Type 2,OUT301,0.3077909,0.08,1828.39,4
+High,HMA26,Home Appliance,2005,Tier 1,Small,Official Brand Store,OUT302,0.9974153,26.33,2083.14,4
+Low,TBL30,Tablet,2010,Tier 3,Small,Multibrand Superstore,OUT101,0.6464156,0.57,520.37,4
+High,HMA10,Home Appliance,2008,Tier 2,Small,Official Brand Store,OUT279,0.6524381,28.28,432.64,4
+Medium,AUD66,Audio Equipment,2014,Tier 3,Medium,Multibrand Superstore,OUT252,0.7599566,3.83,2215.98,3
+Medium,AUD11,Audio Equipment,2001,Tier 1,Small,Multibrand Superstore,OUT300,0.5518092,3.34,1336.26,5
+Medium,LPC22,Laptop and PC,2020,Tier 1,Large,Multibrand Superstore,OUT303,0.5273903,2.66,283.85,5
+Low,TBL82,Tablet,2010,Tier 3,Medium,Multibrand Superstore,OUT304,0.4173271,0.51,2551.39,2
+Medium,LPC35,Laptop and PC,2013,Tier 3,Small,Multibrand Superstore,OUT103,0.0572492,2.33,196.83,5
+Medium,LPC52,Laptop and PC,2008,Tier 2,Large,Multibrand Superstore,OUT280,0.5088075,2.45,2206.75,4
+Low,SWR86,Smart Wearables,2009,Tier 3,Medium,Electronics Hub - Type 2,OUT305,0.98205,0.12,1841.81,5
+Medium,AUD92,Audio Equipment,2007,Tier 1,Large,Official Brand Store,OUT306,0.0695242,0.77,1358.5,4
+Medium,AUD69,Audio Equipment,2001,Tier 2,Medium,Electronics Hub - Type 2,OUT307,0.9635056,2.26,724.15,5
+Low,TBL39,Tablet,2019,Tier 1,Small,Electronics Hub - Type 1,OUT195,0.1469209,0.45,2409.9,5
+Low,TBL54,Tablet,2001,Tier 3,Medium,Electronics Hub - Type 1,OUT308,0.7272043,0.48,1549.71,5
+Medium,LPC64,Laptop and PC,2017,Tier 1,Medium,Official Brand Store,OUT309,0.3922037,2.79,1485.66,5
+Low,MBL82,Mobile Phones,2018,Tier 2,Small,Official Brand Store,OUT113,0.4886365,0.25,268.35,5
+Medium,LPC89,Laptop and PC,2009,Tier 1,Small,Official Brand Store,OUT310,0.8055241,1.63,2211.85,5
+High,HMA74,Home Appliance,2011,Tier 2,Large,Electronics Hub - Type 2,OUT311,0.1166333,20.17,2679.57,3
+Medium,AUD76,Audio Equipment,2015,Tier 1,Small,Electronics Hub - Type 2,OUT312,0.9316939,2.67,2980.43,5
+Medium,AUD68,Audio Equipment,2013,Tier 1,Small,Multibrand Superstore,OUT215,0.8592141,2.19,622.87,4
+Low,MBL66,Mobile Phones,2008,Tier 2,Large,Multibrand Superstore,OUT280,0.2593887,0.26,2766.6,4
+Medium,LPC22,Laptop and PC,2005,Tier 1,Large,Multibrand Superstore,OUT313,0.7454463,2.86,305.69,2
+Low,MBL42,Mobile Phones,2015,Tier 2,Medium,Electronics Hub - Type 2,OUT314,0.6147813,0.31,2536.96,4
+Low,MBL65,Mobile Phones,2013,Tier 1,Small,Electronics Hub - Type 1,OUT259,0.3392544,0.23,2578.29,5
+Low,SWR24,Smart Wearables,2005,Tier 1,Small,Electronics Hub - Type 1,OUT315,0.409541,0.07,772.96,5
+Medium,AUD52,Audio Equipment,2005,Tier 1,Large,Electronics Hub - Type 2,OUT316,0.3403065,1.13,587.64,4
+Medium,LPC32,Laptop and PC,2008,Tier 1,Medium,Multibrand Superstore,OUT317,0.7207192,3.42,1623.17,5
+Low,TBL13,Tablet,2005,Tier 1,Small,Electronics Hub - Type 2,OUT123,0.4012709,0.52,203.16,3
+Low,SWR20,Smart Wearables,2020,Tier 3,Medium,Electronics Hub - Type 1,OUT318,0.8262044,0.15,179.91,2
+Low,TBL50,Tablet,2016,Tier 2,Small,Electronics Hub - Type 1,OUT246,0.8464666,0.47,2265.39,4
+Low,SWR47,Smart Wearables,2017,Tier 2,Small,Electronics Hub - Type 2,OUT319,0.1350112,0.09,2025.56,5
+Low,SWR26,Smart Wearables,2014,Tier 1,Medium,Official Brand Store,OUT018,0.6263078,0.2,1426.25,5
+Medium,LPC40,Laptop and PC,2019,Tier 1,Medium,Electronics Hub - Type 2,OUT320,0.7493781,3.29,478.75,5
+Low,SWR60,Smart Wearables,2011,Tier 2,Large,Multibrand Superstore,OUT321,0.1698195,0.06,1016.64,4
+Low,TBL55,Tablet,2006,Tier 1,Medium,Multibrand Superstore,OUT322,0.9397703,0.31,682.25,5
+Low,SWR36,Smart Wearables,2012,Tier 1,Large,Multibrand Superstore,OUT097,0.9312391,0.08,713.41,5
+Medium,AUD31,Audio Equipment,2020,Tier 2,Large,Electronics Hub - Type 2,OUT208,0.2815983,2.72,1074.52,4
+Medium,LPC98,Laptop and PC,2018,Tier 1,Small,Official Brand Store,OUT323,0.2485243,2.12,596.31,5
+Low,SWR22,Smart Wearables,2011,Tier 1,Medium,Electronics Hub - Type 1,OUT008,0.2601982,0.05,1258.52,3
+Low,TBL63,Tablet,2010,Tier 1,Large,Electronics Hub - Type 2,OUT324,0.0833447,0.35,2658.01,5
+Medium,LPC54,Laptop and PC,2018,Tier 2,Medium,Multibrand Superstore,OUT325,0.4023682,3.09,1838.48,5
+Low,MBL67,Mobile Phones,2016,Tier 2,Medium,Electronics Hub - Type 2,OUT326,0.9596966,0.33,338.22,5
+Medium,AUD74,Audio Equipment,2012,Tier 3,Small,Electronics Hub - Type 1,OUT327,0.886184,3.67,1045.53,5
+Low,SWR55,Smart Wearables,2014,Tier 3,Medium,Electronics Hub - Type 2,OUT328,0.0388304,0.14,1725.73,5
+Low,SWR41,Smart Wearables,2015,Tier 3,Medium,Multibrand Superstore,OUT329,0.131391,0.12,1708.78,5
+Low,TBL33,Tablet,2005,Tier 3,Large,Electronics Hub - Type 2,OUT330,0.745757,0.4,400.79,4
+Low,SWR95,Smart Wearables,2001,Tier 3,Small,Official Brand Store,OUT331,0.6925591,0.18,2332.98,5
+Low,TBL35,Tablet,2013,Tier 1,Medium,Official Brand Store,OUT258,0.6222922,0.39,970.9,4
+Low,SWR51,Smart Wearables,2019,Tier 1,Medium,Electronics Hub - Type 2,OUT320,0.7225052,0.2,2199.12,5
+High,HMA31,Home Appliance,2013,Tier 3,Medium,Electronics Hub - Type 2,OUT332,0.0350519,12.61,601.62,4
+High,HMA93,Home Appliance,2008,Tier 3,Small,Electronics Hub - Type 1,OUT333,0.2665541,17.39,115.89,5
+Low,SWR74,Smart Wearables,2009,Tier 3,Medium,Official Brand Store,OUT334,0.3044862,0.07,2849.79,4
+Medium,LPC12,Laptop and PC,2011,Tier 3,Large,Electronics Hub - Type 1,OUT335,0.553127,1.72,2119.66,5
+Medium,AUD53,Audio Equipment,2013,Tier 3,Large,Official Brand Store,OUT336,0.0683469,1.8,2325.41,2
+Low,SWR84,Smart Wearables,2001,Tier 3,Large,Official Brand Store,OUT023,0.4214289,0.07,2775.48,4
+Low,MBL89,Mobile Phones,2020,Tier 3,Large,Multibrand Superstore,OUT235,0.6490068,0.4,390.79,5
+High,HMA11,Home Appliance,2007,Tier 1,Small,Electronics Hub - Type 1,OUT337,0.2917765,19.34,1555.86,5
+Low,SWR54,Smart Wearables,2018,Tier 3,Small,Multibrand Superstore,OUT158,0.3308639,0.09,866.88,5
+High,HMA69,Home Appliance,2000,Tier 1,Small,Multibrand Superstore,OUT338,0.8215613,18.53,2200.24,5
+Low,MBL39,Mobile Phones,2014,Tier 3,Medium,Electronics Hub - Type 1,OUT339,0.4417751,0.3,2790.81,4
+High,HMA57,Home Appliance,2008,Tier 1,Large,Multibrand Superstore,OUT340,0.2504123,10.58,1347.42,4
+Low,SWR51,Smart Wearables,2006,Tier 2,Medium,Multibrand Superstore,OUT017,0.8558389,0.08,2227.85,2
+Medium,LPC50,Laptop and PC,2002,Tier 1,Large,Electronics Hub - Type 1,OUT236,0.24887,1.22,1458.22,5
+High,HMA53,Home Appliance,2005,Tier 1,Medium,Electronics Hub - Type 1,OUT341,0.8430061,21.22,2535.13,4
+Medium,AUD18,Audio Equipment,2019,Tier 2,Large,Electronics Hub - Type 1,OUT075,0.8617683,3.18,1094.72,4
+Low,MBL10,Mobile Phones,2008,Tier 1,Large,Electronics Hub - Type 1,OUT162,0.9237402,0.33,252.66,4
+Low,TBL64,Tablet,2012,Tier 3,Small,Multibrand Superstore,OUT342,0.711406,0.43,2573.74,4
+Low,SWR13,Smart Wearables,2017,Tier 1,Medium,Electronics Hub - Type 1,OUT343,0.4427699,0.14,1382.03,3
+Low,TBL37,Tablet,2014,Tier 2,Medium,Electronics Hub - Type 1,OUT344,0.0567829,0.44,1705.01,4
+Low,MBL35,Mobile Phones,2007,Tier 2,Medium,Official Brand Store,OUT345,0.1705401,0.12,1184.83,4
+Low,SWR26,Smart Wearables,2019,Tier 2,Large,Electronics Hub - Type 1,OUT075,0.0082588,0.09,663.21,5
+Low,TBL44,Tablet,2019,Tier 3,Medium,Electronics Hub - Type 2,OUT346,0.9473399,0.4,2690,5
+Low,TBL77,Tablet,2013,Tier 3,Medium,Official Brand Store,OUT234,0.8515232,0.57,1364.68,2
+Medium,LPC38,Laptop and PC,2019,Tier 2,Small,Electronics Hub - Type 1,OUT347,0.901426,3.3,2020.14,3
+Medium,AUD23,Audio Equipment,2004,Tier 2,Medium,Electronics Hub - Type 1,OUT129,0.1995311,3.72,1227.74,5
+Low,TBL94,Tablet,2014,Tier 3,Medium,Electronics Hub - Type 2,OUT328,0.4636659,0.34,2301.54,4
+Low,SWR36,Smart Wearables,2001,Tier 2,Small,Official Brand Store,OUT348,0.5478629,0.06,2643.86,3
+High,HMA73,Home Appliance,2016,Tier 2,Small,Electronics Hub - Type 1,OUT246,0.7225618,19.32,2407.61,4
+Low,SWR43,Smart Wearables,2012,Tier 3,Medium,Official Brand Store,OUT083,0.6684196,0.17,186.23,5
+Medium,AUD61,Audio Equipment,2017,Tier 1,Small,Official Brand Store,OUT349,0.0141652,0.5,2321.28,5
+Medium,AUD17,Audio Equipment,2010,Tier 1,Small,Electronics Hub - Type 2,OUT120,0.7468115,3.47,1410.19,5
+High,HMA29,Home Appliance,2001,Tier 1,Large,Electronics Hub - Type 1,OUT248,0.1269917,13.24,2818.84,4
+Low,SWR81,Smart Wearables,2010,Tier 1,Small,Multibrand Superstore,OUT183,0.1459057,0.08,2516.15,5
+Low,TBL52,Tablet,2007,Tier 2,Small,Electronics Hub - Type 2,OUT350,0.3123984,0.3,2177.11,4
+Low,TBL72,Tablet,2002,Tier 2,Large,Official Brand Store,OUT167,0.7048482,0.46,503.13,5
+Medium,AUD14,Audio Equipment,2011,Tier 3,Large,Official Brand Store,OUT351,0.5830933,1.32,2650.96,2
+Low,MBL14,Mobile Phones,2002,Tier 2,Small,Electronics Hub - Type 1,OUT352,0.7174864,0.31,581.49,3
+Medium,AUD61,Audio Equipment,2016,Tier 2,Small,Multibrand Superstore,OUT353,0.7062624,1.53,471.98,4
+Low,TBL34,Tablet,2009,Tier 3,Medium,Electronics Hub - Type 1,OUT354,0.4718366,0.49,2360.65,3
+Low,TBL70,Tablet,2013,Tier 3,Small,Multibrand Superstore,OUT103,0.1413155,0.44,145.83,4
+Low,TBL64,Tablet,2016,Tier 1,Large,Official Brand Store,OUT355,0.3640695,0.39,2709.13,5
+Medium,AUD13,Audio Equipment,2010,Tier 2,Small,Electronics Hub - Type 2,OUT356,0.2024489,0.96,2561.66,4
+High,HMA85,Home Appliance,2017,Tier 2,Medium,Multibrand Superstore,OUT151,0.1475768,25.34,1653.09,5
+Low,TBL95,Tablet,2015,Tier 2,Large,Electronics Hub - Type 1,OUT357,0.5497677,0.58,2325.51,3
+Low,SWR89,Smart Wearables,2014,Tier 3,Small,Electronics Hub - Type 1,OUT358,0.9154559,0.16,2665.96,5
+Low,SWR99,Smart Wearables,2017,Tier 2,Large,Electronics Hub - Type 1,OUT136,0.5506547,0.16,871.2,2
+Medium,LPC48,Laptop and PC,2012,Tier 3,Small,Official Brand Store,OUT359,0.1863067,3.43,1778.92,5
+High,HMA18,Home Appliance,2014,Tier 3,Large,Official Brand Store,OUT255,0.5196332,35.01,622.1,5
+High,HMA14,Home Appliance,2012,Tier 1,Medium,Electronics Hub - Type 2,OUT360,0.5272217,37.35,490.64,5
+Medium,AUD87,Audio Equipment,2001,Tier 3,Small,Electronics Hub - Type 2,OUT361,0.1320637,2.29,1385.27,5
+High,HMA87,Home Appliance,2018,Tier 2,Small,Electronics Hub - Type 1,OUT362,0.8628813,32.79,2400.77,2
+Low,MBL32,Mobile Phones,2009,Tier 2,Large,Electronics Hub - Type 2,OUT363,0.835566,0.27,2995.37,1
+Medium,LPC51,Laptop and PC,2014,Tier 1,Large,Electronics Hub - Type 1,OUT364,0.7159379,1.2,2821.26,4
+Low,TBL84,Tablet,2001,Tier 2,Medium,Electronics Hub - Type 1,OUT365,0.5368584,0.56,1982.23,5
+High,HMA42,Home Appliance,2002,Tier 2,Small,Official Brand Store,OUT067,0.0753814,37.55,2584.9,5
+High,HMA85,Home Appliance,2009,Tier 2,Large,Official Brand Store,OUT285,0.8039787,15.65,1598.45,4
+Low,TBL26,Tablet,2020,Tier 3,Large,Electronics Hub - Type 2,OUT261,0.5871251,0.51,1845.5,5
+Low,TBL16,Tablet,2008,Tier 1,Medium,Official Brand Store,OUT366,0.1722164,0.51,2571.58,4
+Low,MBL44,Mobile Phones,2009,Tier 1,Small,Official Brand Store,OUT310,0.8338027,0.33,2001.36,4
+Medium,LPC76,Laptop and PC,2009,Tier 2,Large,Official Brand Store,OUT285,0.6019331,1.42,1123.69,5
+Low,MBL86,Mobile Phones,2005,Tier 3,Medium,Multibrand Superstore,OUT210,0.8526401,0.11,2149.03,5
+Low,TBL51,Tablet,2001,Tier 2,Small,Electronics Hub - Type 2,OUT266,0.3586331,0.58,167.67,4
+High,HMA94,Home Appliance,2002,Tier 2,Small,Multibrand Superstore,OUT064,0.9780322,28.36,2677.96,1
+Medium,AUD99,Audio Equipment,2020,Tier 1,Large,Electronics Hub - Type 1,OUT002,0.5381799,2.14,2329.44,5
+Low,SWR89,Smart Wearables,2003,Tier 3,Medium,Official Brand Store,OUT367,0.8092589,0.16,1055.28,3
+Medium,LPC80,Laptop and PC,2004,Tier 3,Large,Electronics Hub - Type 1,OUT140,0.0814721,1.76,1998.62,4
+Medium,AUD32,Audio Equipment,2011,Tier 3,Small,Electronics Hub - Type 1,OUT368,0.4280621,2.26,2559.99,4
+Medium,LPC20,Laptop and PC,2017,Tier 3,Large,Official Brand Store,OUT369,0.9248489,1.71,588.03,4
+High,HMA79,Home Appliance,2016,Tier 3,Medium,Electronics Hub - Type 1,OUT049,0.5923814,8.38,2446.75,5
+Medium,AUD12,Audio Equipment,2001,Tier 2,Small,Electronics Hub - Type 1,OUT370,0.0600885,2.35,2081.46,5
+Low,TBL24,Tablet,2016,Tier 1,Small,Electronics Hub - Type 1,OUT371,0.2064125,0.58,497.6,5
+Medium,LPC27,Laptop and PC,2018,Tier 3,Small,Electronics Hub - Type 2,OUT160,0.8716463,1.76,2227.91,3
+Low,SWR29,Smart Wearables,2019,Tier 2,Medium,Official Brand Store,OUT050,0.2558602,0.17,1741.87,3
+Medium,LPC76,Laptop and PC,2011,Tier 2,Large,Electronics Hub - Type 1,OUT372,0.3439875,2.11,2041.37,5
+Low,SWR99,Smart Wearables,2003,Tier 1,Medium,Electronics Hub - Type 2,OUT373,0.5743852,0.11,618.51,3
+Low,MBL68,Mobile Phones,2010,Tier 3,Medium,Electronics Hub - Type 2,OUT374,0.0387767,0.36,2615,5
+Low,TBL31,Tablet,2011,Tier 2,Small,Electronics Hub - Type 1,OUT375,0.0137199,0.32,2829.72,4
+Low,TBL17,Tablet,2016,Tier 3,Medium,Multibrand Superstore,OUT376,0.8887003,0.45,2475.07,5
+Low,SWR88,Smart Wearables,2011,Tier 3,Small,Electronics Hub - Type 2,OUT377,0.6618738,0.19,1159.46,1
+Medium,AUD97,Audio Equipment,2002,Tier 1,Medium,Official Brand Store,OUT378,0.1253149,3.29,1035.3,3
+Low,TBL72,Tablet,2006,Tier 1,Large,Official Brand Store,OUT379,0.8416811,0.56,1261.21,5
+Low,MBL77,Mobile Phones,2016,Tier 3,Small,Electronics Hub - Type 2,OUT380,0.1155112,0.33,1566.24,4
+Low,SWR36,Smart Wearables,2004,Tier 3,Medium,Multibrand Superstore,OUT122,0.5985236,0.06,236.45,4
+Low,MBL27,Mobile Phones,2011,Tier 2,Medium,Official Brand Store,OUT381,0.2972386,0.32,2332.2,3
+Low,SWR36,Smart Wearables,2019,Tier 2,Small,Electronics Hub - Type 2,OUT382,0.4735112,0.11,2754.08,5
+Low,SWR84,Smart Wearables,2003,Tier 1,Small,Multibrand Superstore,OUT383,0.5581654,0.11,827.28,4
+High,HMA34,Home Appliance,2017,Tier 2,Large,Electronics Hub - Type 2,OUT384,0.5770071,20.83,2075.43,5
+Medium,AUD59,Audio Equipment,2006,Tier 2,Large,Multibrand Superstore,OUT098,0.2319235,0.69,947.67,4
+Low,SWR17,Smart Wearables,2018,Tier 3,Large,Official Brand Store,OUT385,0.6567497,0.07,2388.13,2
+Medium,LPC43,Laptop and PC,2010,Tier 3,Medium,Electronics Hub - Type 1,OUT386,0.8560741,1.3,614.3,5
+High,HMA15,Home Appliance,2020,Tier 2,Small,Electronics Hub - Type 2,OUT387,0.9605601,8.67,2854.43,4
+Medium,AUD94,Audio Equipment,2003,Tier 2,Large,Multibrand Superstore,OUT388,0.1114935,2.03,889.61,3
+Low,SWR97,Smart Wearables,2019,Tier 1,Medium,Electronics Hub - Type 1,OUT389,0.5275452,0.12,2775.98,3
+Low,SWR12,Smart Wearables,2016,Tier 1,Small,Official Brand Store,OUT284,0.2307559,0.13,740.17,5
+High,HMA77,Home Appliance,2001,Tier 1,Medium,Electronics Hub - Type 2,OUT020,0.094997,8.34,658.29,4
+High,HMA43,Home Appliance,2004,Tier 1,Small,Multibrand Superstore,OUT390,0.1054357,17.41,2271.78,1
+Low,MBL55,Mobile Phones,2015,Tier 1,Large,Electronics Hub - Type 1,OUT286,0.1629045,0.21,612.09,3
+Low,MBL17,Mobile Phones,2012,Tier 2,Large,Official Brand Store,OUT281,0.3140854,0.13,1146.46,3
+Low,SWR48,Smart Wearables,2017,Tier 3,Small,Multibrand Superstore,OUT200,0.0704666,0.06,2925.19,5
+High,HMA70,Home Appliance,2010,Tier 2,Large,Official Brand Store,OUT391,0.1823661,10.76,609.98,1
+Medium,AUD15,Audio Equipment,2013,Tier 2,Medium,Official Brand Store,OUT085,0.2399168,0.82,1124.79,5
+High,HMA30,Home Appliance,2004,Tier 1,Medium,Official Brand Store,OUT392,0.1292856,9.97,2011.04,4
+Medium,AUD69,Audio Equipment,2002,Tier 1,Medium,Multibrand Superstore,OUT393,0.8824624,1.78,1995.94,5
+Low,SWR86,Smart Wearables,2002,Tier 1,Large,Electronics Hub - Type 2,OUT276,0.5449068,0.08,905.74,1
+Low,MBL10,Mobile Phones,2016,Tier 1,Medium,Electronics Hub - Type 2,OUT394,0.5318179,0.13,185.85,5
+Low,TBL61,Tablet,2001,Tier 2,Large,Electronics Hub - Type 2,OUT226,0.9938747,0.48,1936.28,1
+Medium,LPC94,Laptop and PC,2000,Tier 1,Large,Electronics Hub - Type 1,OUT395,0.014432,3.19,1722.22,5
+High,HMA12,Home Appliance,2013,Tier 1,Large,Electronics Hub - Type 2,OUT063,0.0882482,19.49,2999.71,4
+Medium,AUD65,Audio Equipment,2016,Tier 2,Medium,Electronics Hub - Type 2,OUT326,0.7156765,1.3,2170.42,5
+Low,TBL98,Tablet,2004,Tier 1,Small,Multibrand Superstore,OUT390,0.3279445,0.51,1358.32,4
+Low,TBL75,Tablet,2007,Tier 2,Small,Official Brand Store,OUT267,0.5019562,0.31,684.38,5
+Low,TBL23,Tablet,2013,Tier 3,Medium,Electronics Hub - Type 1,OUT396,0.3332444,0.46,1182.4,5
+Low,SWR19,Smart Wearables,2002,Tier 2,Large,Electronics Hub - Type 1,OUT397,0.6807126,0.19,1298.65,2
+Low,TBL38,Tablet,2020,Tier 2,Small,Multibrand Superstore,OUT040,0.54399,0.58,295.77,5
+Low,MBL63,Mobile Phones,2000,Tier 3,Medium,Official Brand Store,OUT206,0.8300556,0.23,1045.36,5
+Low,SWR62,Smart Wearables,2014,Tier 2,Large,Electronics Hub - Type 2,OUT398,0.322409,0.12,348.78,5
+Low,TBL84,Tablet,2017,Tier 2,Medium,Multibrand Superstore,OUT151,0.1467365,0.46,2542.41,4
+High,HMA86,Home Appliance,2001,Tier 3,Small,Multibrand Superstore,OUT399,0.5646717,36.73,1202.08,4
+High,HMA56,Home Appliance,2005,Tier 2,Large,Electronics Hub - Type 2,OUT400,0.7513451,15.66,1837.41,4
+Low,TBL79,Tablet,2004,Tier 1,Small,Official Brand Store,OUT401,0.6553408,0.56,916.34,5
+Low,TBL65,Tablet,2018,Tier 1,Large,Official Brand Store,OUT159,0.0878398,0.51,2521.42,5
+Low,MBL72,Mobile Phones,2003,Tier 1,Medium,Electronics Hub - Type 1,OUT107,0.2004443,0.25,580.3,5
+Low,MBL95,Mobile Phones,2001,Tier 2,Large,Official Brand Store,OUT402,0.1752778,0.38,1190.85,4
+Low,SWR42,Smart Wearables,2013,Tier 1,Medium,Official Brand Store,OUT258,0.4815374,0.13,2536.98,4
+Medium,AUD21,Audio Equipment,2000,Tier 2,Large,Electronics Hub - Type 2,OUT403,0.2350072,1.17,1730.24,4
+Medium,LPC15,Laptop and PC,2020,Tier 3,Small,Official Brand Store,OUT404,0.1022277,3.28,402.36,5
+Medium,AUD64,Audio Equipment,2016,Tier 2,Small,Electronics Hub - Type 2,OUT405,0.1529243,3.38,2509.17,5
+Medium,AUD92,Audio Equipment,2009,Tier 2,Small,Multibrand Superstore,OUT406,0.4809727,1.88,260.64,5
+Low,SWR42,Smart Wearables,2009,Tier 2,Small,Official Brand Store,OUT074,0.0850111,0.17,710.71,4
+Medium,AUD38,Audio Equipment,2006,Tier 1,Small,Official Brand Store,OUT407,0.5366701,1.21,1227.63,5
+Low,TBL32,Tablet,2015,Tier 1,Medium,Electronics Hub - Type 1,OUT408,0.543975,0.37,2943.35,4
+Medium,LPC24,Laptop and PC,2018,Tier 2,Medium,Multibrand Superstore,OUT325,0.6194867,1.39,2284.95,4
+Medium,LPC93,Laptop and PC,2001,Tier 2,Small,Multibrand Superstore,OUT409,0.5303766,1.28,2255.4,4
+Medium,LPC22,Laptop and PC,2009,Tier 2,Medium,Official Brand Store,OUT086,0.1702461,3.49,925.59,5
+Medium,AUD93,Audio Equipment,2014,Tier 2,Medium,Multibrand Superstore,OUT410,0.7508052,2.52,1267.55,5
+Medium,AUD61,Audio Equipment,2012,Tier 2,Large,Multibrand Superstore,OUT411,0.2573481,0.52,1531.74,1
+Medium,LPC76,Laptop and PC,2004,Tier 1,Small,Multibrand Superstore,OUT390,0.8209239,2.93,224.01,1
+High,HMA77,Home Appliance,2014,Tier 2,Large,Multibrand Superstore,OUT288,0.40726,5.58,1425.7,4
+High,HMA26,Home Appliance,2007,Tier 1,Large,Multibrand Superstore,OUT412,0.0696748,5.03,723.17,4
+Low,MBL85,Mobile Phones,2016,Tier 3,Small,Electronics Hub - Type 2,OUT380,0.7959804,0.12,650.68,3
+High,HMA23,Home Appliance,2015,Tier 1,Large,Official Brand Store,OUT044,0.0299076,11.75,2857.33,4
+Medium,LPC28,Laptop and PC,2005,Tier 3,Medium,Official Brand Store,OUT218,0.0280303,2.67,1360.62,4
+Medium,LPC23,Laptop and PC,2015,Tier 1,Small,Electronics Hub - Type 1,OUT413,0.4565527,1.68,2722.46,5
+Medium,AUD81,Audio Equipment,2013,Tier 2,Large,Electronics Hub - Type 2,OUT414,0.1208048,2.21,356.53,5
+Medium,LPC49,Laptop and PC,2005,Tier 1,Small,Multibrand Superstore,OUT415,0.099939,1.68,395.24,5
+Low,TBL27,Tablet,2007,Tier 3,Large,Electronics Hub - Type 2,OUT416,0.2642313,0.35,149.97,5
+Medium,AUD15,Audio Equipment,2017,Tier 2,Large,Electronics Hub - Type 1,OUT136,0.4273243,1.94,1155.31,5
+Medium,AUD55,Audio Equipment,2004,Tier 3,Large,Electronics Hub - Type 1,OUT140,0.1876142,3.82,2294.24,4
+Medium,AUD23,Audio Equipment,2009,Tier 1,Small,Official Brand Store,OUT310,0.2425441,3.58,210.09,4
+Medium,LPC19,Laptop and PC,2001,Tier 1,Large,Official Brand Store,OUT217,0.3308144,1.34,1457.76,1
+Low,TBL80,Tablet,2007,Tier 2,Medium,Multibrand Superstore,OUT010,0.7250332,0.36,2645.77,5
+Medium,LPC68,Laptop and PC,2019,Tier 2,Medium,Official Brand Store,OUT050,0.7710128,3.25,1526.1,4
+Medium,LPC35,Laptop and PC,2001,Tier 3,Small,Multibrand Superstore,OUT399,0.208416,1.4,634.09,5
+High,HMA17,Home Appliance,2009,Tier 1,Large,Electronics Hub - Type 2,OUT417,0.4264741,19.85,2371.59,3
+Low,MBL48,Mobile Phones,2011,Tier 2,Large,Official Brand Store,OUT418,0.5142239,0.31,2468.35,4
+Medium,AUD73,Audio Equipment,2008,Tier 2,Large,Electronics Hub - Type 1,OUT026,0.1529841,1.62,2840.61,5
+Medium,LPC67,Laptop and PC,2001,Tier 2,Small,Electronics Hub - Type 2,OUT266,0.1054335,2.92,278.72,4
+High,HMA64,Home Appliance,2010,Tier 1,Small,Electronics Hub - Type 2,OUT120,0.9000645,35.6,1802.43,4
+Medium,AUD68,Audio Equipment,2009,Tier 2,Small,Electronics Hub - Type 2,OUT273,0.9266622,3.61,2252.48,4
+Low,SWR40,Smart Wearables,2010,Tier 2,Large,Electronics Hub - Type 1,OUT419,0.0610922,0.1,805.47,4
+Medium,LPC30,Laptop and PC,2009,Tier 2,Small,Electronics Hub - Type 1,OUT420,0.8211231,1.47,1540.54,4
+Low,MBL32,Mobile Phones,2020,Tier 3,Small,Electronics Hub - Type 2,OUT134,0.9378469,0.36,2553.21,5
+Low,SWR79,Smart Wearables,2001,Tier 3,Large,Multibrand Superstore,OUT421,0.4005811,0.18,2637.56,5
+Medium,AUD19,Audio Equipment,2020,Tier 2,Small,Multibrand Superstore,OUT040,0.2052252,1.49,2997.45,3
+Medium,LPC49,Laptop and PC,2008,Tier 2,Medium,Official Brand Store,OUT422,0.116336,2.15,1940.15,5
+Medium,LPC31,Laptop and PC,2016,Tier 3,Large,Official Brand Store,OUT423,0.5091451,2.1,958.23,5
+Low,SWR54,Smart Wearables,2013,Tier 1,Small,Official Brand Store,OUT424,0.5806331,0.06,2755.83,2
+Medium,AUD97,Audio Equipment,2007,Tier 1,Small,Electronics Hub - Type 2,OUT205,0.0983785,3.2,1514.74,4
+Low,SWR39,Smart Wearables,2014,Tier 2,Large,Official Brand Store,OUT425,0.3916586,0.17,751.28,4
+Low,TBL10,Tablet,2018,Tier 3,Medium,Electronics Hub - Type 1,OUT090,0.2055517,0.46,743.5,5
+Medium,LPC27,Laptop and PC,2019,Tier 3,Small,Official Brand Store,OUT426,0.0124723,1.97,2778.72,5
+High,HMA15,Home Appliance,2008,Tier 1,Medium,Multibrand Superstore,OUT317,0.6692017,19.22,814.9,4
+High,HMA14,Home Appliance,2016,Tier 1,Large,Multibrand Superstore,OUT427,0.4860192,10.58,501.87,5
+Low,TBL80,Tablet,2014,Tier 3,Large,Multibrand Superstore,OUT428,0.884573,0.47,738.98,3
+Medium,LPC14,Laptop and PC,2018,Tier 1,Small,Electronics Hub - Type 1,OUT429,0.8573274,1.66,2690.85,2
+Medium,LPC54,Laptop and PC,2015,Tier 3,Small,Electronics Hub - Type 1,OUT031,0.3328895,2.39,1327.08,2
+Medium,AUD22,Audio Equipment,2000,Tier 2,Medium,Multibrand Superstore,OUT430,0.5086568,3.99,2701.08,5
+Medium,LPC45,Laptop and PC,2005,Tier 3,Medium,Multibrand Superstore,OUT210,0.0994774,2.41,1672.4,4
+Low,TBL77,Tablet,2015,Tier 3,Medium,Multibrand Superstore,OUT329,0.4517705,0.3,2685.5,3
+Low,TBL61,Tablet,2009,Tier 3,Small,Electronics Hub - Type 1,OUT225,0.3251128,0.45,1394.06,3
+High,HMA35,Home Appliance,2013,Tier 3,Large,Electronics Hub - Type 1,OUT431,0.0728521,9.27,1635.69,5
+Low,SWR78,Smart Wearables,2012,Tier 2,Small,Official Brand Store,OUT143,0.4171276,0.09,2800.12,5
+Low,SWR50,Smart Wearables,2010,Tier 1,Large,Multibrand Superstore,OUT237,0.3061944,0.2,1639.61,4
+Medium,LPC71,Laptop and PC,2012,Tier 2,Small,Electronics Hub - Type 2,OUT432,0.7208549,3.24,1979.69,3
+Low,TBL18,Tablet,2011,Tier 2,Large,Electronics Hub - Type 2,OUT311,0.5974315,0.57,1527.48,5
+High,HMA55,Home Appliance,2008,Tier 1,Large,Electronics Hub - Type 2,OUT009,0.6883331,9.72,1422.83,4
+Low,TBL78,Tablet,2019,Tier 3,Small,Electronics Hub - Type 1,OUT135,0.4221453,0.51,2339.71,5
+Low,SWR67,Smart Wearables,2014,Tier 3,Large,Multibrand Superstore,OUT428,0.8910815,0.15,1341.44,3
+Medium,LPC79,Laptop and PC,2001,Tier 3,Large,Electronics Hub - Type 2,OUT012,0.8582798,2.6,447.11,4
+Low,TBL55,Tablet,2007,Tier 2,Small,Multibrand Superstore,OUT019,0.1562557,0.55,899.9,5
+Medium,LPC75,Laptop and PC,2014,Tier 2,Medium,Official Brand Store,OUT433,0.67421,1.67,890.88,4
+Low,MBL45,Mobile Phones,2000,Tier 1,Medium,Multibrand Superstore,OUT095,0.3193504,0.38,2185.83,3
+Medium,LPC57,Laptop and PC,2003,Tier 2,Small,Official Brand Store,OUT434,0.3892409,2.82,1076.73,4
+Low,MBL43,Mobile Phones,2015,Tier 1,Medium,Electronics Hub - Type 2,OUT435,0.1385053,0.1,1668.74,2
+Medium,LPC71,Laptop and PC,2004,Tier 1,Medium,Electronics Hub - Type 1,OUT436,0.6751859,1.34,594.67,3
+Low,MBL27,Mobile Phones,2015,Tier 2,Medium,Official Brand Store,OUT437,0.3550417,0.32,1481.7,4
+Low,MBL68,Mobile Phones,2019,Tier 1,Medium,Electronics Hub - Type 1,OUT389,0.854452,0.21,2829.53,4
+High,HMA61,Home Appliance,2016,Tier 3,Medium,Electronics Hub - Type 1,OUT049,0.8189668,33.29,370.92,5
+Medium,AUD95,Audio Equipment,2000,Tier 1,Large,Official Brand Store,OUT270,0.3240226,2.63,2471.84,5
+Low,MBL85,Mobile Phones,2015,Tier 2,Large,Multibrand Superstore,OUT184,0.4083214,0.26,2192.82,5
+Medium,AUD16,Audio Equipment,2000,Tier 1,Large,Electronics Hub - Type 2,OUT438,0.5785055,3.23,162,4
+Medium,AUD76,Audio Equipment,2020,Tier 1,Large,Official Brand Store,OUT439,0.9650777,1.83,1191.74,1
+Low,TBL74,Tablet,2010,Tier 2,Medium,Electronics Hub - Type 2,OUT189,0.6641615,0.52,750.42,5
+Low,MBL87,Mobile Phones,2008,Tier 2,Large,Electronics Hub - Type 2,OUT250,0.3141928,0.28,832.26,5
+Medium,AUD40,Audio Equipment,2008,Tier 1,Small,Electronics Hub - Type 2,OUT060,0.8639193,3.16,346.3,4
+Low,TBL99,Tablet,2020,Tier 3,Medium,Multibrand Superstore,OUT440,0.1772922,0.58,2149.33,1
+Low,MBL42,Mobile Phones,2011,Tier 1,Medium,Official Brand Store,OUT441,0.7265707,0.27,1818.86,4
+Low,TBL26,Tablet,2009,Tier 2,Small,Electronics Hub - Type 2,OUT273,0.4785523,0.58,1943.64,5
+High,HMA56,Home Appliance,2017,Tier 1,Medium,Official Brand Store,OUT309,0.2465842,36.97,208.56,5
+Medium,LPC14,Laptop and PC,2015,Tier 2,Medium,Electronics Hub - Type 2,OUT314,0.4506324,1.89,983.93,5
+Medium,AUD72,Audio Equipment,2011,Tier 1,Large,Multibrand Superstore,OUT194,0.9761917,2.7,1509.58,3
+High,HMA46,Home Appliance,2005,Tier 3,Small,Electronics Hub - Type 2,OUT442,0.4515596,10.6,365.89,4
+Low,SWR55,Smart Wearables,2008,Tier 1,Large,Electronics Hub - Type 1,OUT162,0.6595563,0.19,2820.59,5
+Low,SWR29,Smart Wearables,2006,Tier 3,Large,Official Brand Store,OUT443,0.850894,0.18,2167.09,4
+Low,MBL26,Mobile Phones,2015,Tier 1,Medium,Electronics Hub - Type 2,OUT435,0.8442203,0.28,2554.55,5
+Low,MBL74,Mobile Phones,2020,Tier 2,Small,Multibrand Superstore,OUT040,0.8600329,0.37,501.14,4
+Low,TBL44,Tablet,2019,Tier 3,Large,Electronics Hub - Type 1,OUT011,0.2635667,0.55,2425.93,5
+Medium,LPC18,Laptop and PC,2005,Tier 1,Large,Multibrand Superstore,OUT313,0.5483452,1.75,2856.8,3
+Low,TBL19,Tablet,2019,Tier 1,Small,Electronics Hub - Type 1,OUT195,0.7044605,0.42,1096.2,5
+Low,TBL42,Tablet,2019,Tier 3,Small,Electronics Hub - Type 1,OUT135,0.8562343,0.4,2710.65,3
+Medium,LPC51,Laptop and PC,2005,Tier 1,Large,Official Brand Store,OUT192,0.7476103,3.03,154.27,5
+Low,MBL13,Mobile Phones,2007,Tier 1,Small,Electronics Hub - Type 2,OUT205,0.613357,0.39,1580.66,5
+Medium,AUD99,Audio Equipment,2009,Tier 2,Medium,Electronics Hub - Type 2,OUT256,0.7872086,2.32,465.87,5
+Medium,AUD82,Audio Equipment,2003,Tier 3,Large,Multibrand Superstore,OUT227,0.4214126,2.79,2225.02,3
+Low,TBL36,Tablet,2009,Tier 2,Large,Official Brand Store,OUT285,0.0877149,0.55,967.45,3
+Medium,AUD92,Audio Equipment,2007,Tier 3,Large,Multibrand Superstore,OUT444,0.7364548,1.45,1930.87,4
+Medium,LPC41,Laptop and PC,2015,Tier 3,Large,Electronics Hub - Type 2,OUT445,0.993969,2.91,2986.98,3
+Low,TBL48,Tablet,2005,Tier 1,Medium,Multibrand Superstore,OUT446,0.2068331,0.49,2671.99,4
+Low,MBL54,Mobile Phones,2020,Tier 1,Medium,Official Brand Store,OUT447,0.9310783,0.15,2538.48,5
+Medium,LPC92,Laptop and PC,2010,Tier 3,Medium,Multibrand Superstore,OUT304,0.6298571,2.46,1935.15,4
+Low,MBL91,Mobile Phones,2005,Tier 1,Small,Multibrand Superstore,OUT415,0.2445091,0.15,2333.28,3
+High,HMA16,Home Appliance,2015,Tier 1,Medium,Multibrand Superstore,OUT448,0.8265876,25.36,956.2,4
+High,HMA58,Home Appliance,2009,Tier 3,Small,Official Brand Store,OUT449,0.777671,5.99,1220.3,5
+Low,SWR77,Smart Wearables,2010,Tier 1,Medium,Official Brand Store,OUT144,0.3287615,0.08,1264.01,5
+Low,MBL63,Mobile Phones,2020,Tier 1,Small,Electronics Hub - Type 1,OUT450,0.4395657,0.33,1113.89,4
+Low,SWR97,Smart Wearables,2012,Tier 3,Medium,Electronics Hub - Type 2,OUT451,0.8244621,0.16,775.05,4
+Medium,AUD57,Audio Equipment,2006,Tier 3,Small,Multibrand Superstore,OUT452,0.9530893,0.98,2171.44,4
+Medium,AUD40,Audio Equipment,2006,Tier 3,Large,Official Brand Store,OUT443,0.5057725,1.55,1356.25,4
+Medium,AUD46,Audio Equipment,2020,Tier 3,Large,Electronics Hub - Type 2,OUT261,0.7603811,3.34,1014.8,3
+Medium,AUD82,Audio Equipment,2002,Tier 3,Medium,Official Brand Store,OUT224,0.9431353,2.69,977.05,4
+Medium,LPC96,Laptop and PC,2016,Tier 3,Medium,Electronics Hub - Type 1,OUT049,0.767246,2.61,339.45,2
+Medium,LPC35,Laptop and PC,2004,Tier 1,Small,Multibrand Superstore,OUT390,0.6996445,2.88,2774.18,4
+Medium,AUD81,Audio Equipment,2016,Tier 1,Medium,Official Brand Store,OUT453,0.8506017,1.65,1115.56,4
+Low,TBL77,Tablet,2020,Tier 3,Medium,Official Brand Store,OUT454,0.997442,0.35,749.83,4
+Low,MBL84,Mobile Phones,2012,Tier 1,Small,Electronics Hub - Type 2,OUT455,0.8238002,0.24,2558.68,3
+Medium,AUD28,Audio Equipment,2015,Tier 3,Medium,Electronics Hub - Type 2,OUT191,0.8213255,3.17,2526.62,5
+High,HMA97,Home Appliance,2007,Tier 3,Small,Multibrand Superstore,OUT211,0.319477,32.33,2519.5,5
+Low,TBL13,Tablet,2020,Tier 2,Medium,Official Brand Store,OUT456,0.4062117,0.46,1015.58,5
+Medium,AUD12,Audio Equipment,2014,Tier 2,Small,Multibrand Superstore,OUT110,0.7892929,1.24,2403.67,5
+Low,SWR73,Smart Wearables,2009,Tier 3,Medium,Electronics Hub - Type 2,OUT305,0.8646733,0.14,294.12,5
+Low,TBL88,Tablet,2015,Tier 3,Large,Electronics Hub - Type 2,OUT445,0.2142907,0.45,172.5,5
+Low,SWR98,Smart Wearables,2005,Tier 2,Small,Official Brand Store,OUT457,0.959164,0.09,1888.02,4
+Medium,LPC45,Laptop and PC,2004,Tier 2,Medium,Electronics Hub - Type 2,OUT458,0.2809135,3.09,2775.11,4
+Medium,LPC60,Laptop and PC,2004,Tier 2,Medium,Electronics Hub - Type 2,OUT458,0.6649407,1.61,2302.75,5
+Medium,LPC95,Laptop and PC,2013,Tier 1,Medium,Electronics Hub - Type 2,OUT459,0.7931638,1.74,2611.28,5
+Medium,LPC86,Laptop and PC,2000,Tier 1,Medium,Electronics Hub - Type 2,OUT460,0.8723689,3.47,2089.9,4
+Medium,AUD32,Audio Equipment,2008,Tier 1,Small,Official Brand Store,OUT185,0.5375004,1.11,2306.4,4
+High,HMA39,Home Appliance,2002,Tier 3,Small,Electronics Hub - Type 2,OUT461,0.2851566,31.91,1591.39,3
+Medium,LPC30,Laptop and PC,2012,Tier 1,Small,Multibrand Superstore,OUT462,0.4677924,2.58,1525.03,4
+Low,SWR31,Smart Wearables,2015,Tier 2,Small,Electronics Hub - Type 2,OUT463,0.8925529,0.13,2921.22,1
+Medium,LPC46,Laptop and PC,2006,Tier 2,Large,Electronics Hub - Type 1,OUT464,0.3191961,3.23,522.81,4
+Medium,AUD70,Audio Equipment,2006,Tier 3,Large,Electronics Hub - Type 2,OUT038,0.1528452,1.64,2000.98,5
+High,HMA34,Home Appliance,2011,Tier 3,Medium,Electronics Hub - Type 2,OUT283,0.5324592,21.51,962.82,3
+Medium,AUD63,Audio Equipment,2003,Tier 1,Small,Electronics Hub - Type 2,OUT052,0.204185,2.14,2077.15,5
+Medium,AUD70,Audio Equipment,2004,Tier 2,Large,Electronics Hub - Type 2,OUT277,0.1781303,1.9,1564.09,1
+Medium,LPC41,Laptop and PC,2019,Tier 3,Large,Multibrand Superstore,OUT465,0.8324179,2.18,2360.84,5
+High,HMA14,Home Appliance,2019,Tier 3,Large,Official Brand Store,OUT466,0.6070657,32.98,2093.92,5
+Low,MBL62,Mobile Phones,2004,Tier 3,Medium,Multibrand Superstore,OUT122,0.0314205,0.12,2172.12,4
+Low,SWR33,Smart Wearables,2015,Tier 2,Large,Official Brand Store,OUT290,0.0560348,0.11,2076.19,4
+Low,TBL80,Tablet,2006,Tier 3,Small,Electronics Hub - Type 1,OUT035,0.7277271,0.4,1333.3,5
+Low,TBL36,Tablet,2010,Tier 1,Large,Official Brand Store,OUT062,0.1606531,0.49,331.33,5
+Medium,AUD76,Audio Equipment,2003,Tier 3,Large,Multibrand Superstore,OUT227,0.1335559,2.57,798.16,4
+High,HMA56,Home Appliance,2018,Tier 1,Large,Electronics Hub - Type 2,OUT467,0.5471961,27.83,2229.28,5
+Medium,LPC71,Laptop and PC,2008,Tier 1,Medium,Official Brand Store,OUT366,0.5143965,3.17,248.65,4
+Medium,LPC77,Laptop and PC,2006,Tier 1,Small,Multibrand Superstore,OUT214,0.3946225,1.95,340.39,3
+High,HMA17,Home Appliance,2001,Tier 3,Small,Official Brand Store,OUT331,0.2048547,34.77,2543.02,4
+Low,TBL59,Tablet,2010,Tier 2,Large,Official Brand Store,OUT391,0.947434,0.56,750.03,4
+Low,SWR64,Smart Wearables,2013,Tier 3,Medium,Multibrand Superstore,OUT223,0.8634266,0.15,1777.37,2
+High,HMA55,Home Appliance,2011,Tier 2,Small,Electronics Hub - Type 2,OUT468,0.5073633,30.3,1916.32,4
+Low,SWR39,Smart Wearables,2006,Tier 3,Small,Multibrand Superstore,OUT452,0.0132413,0.19,1589.93,5
+High,HMA75,Home Appliance,2007,Tier 3,Small,Electronics Hub - Type 1,OUT287,0.8644841,33.27,657.69,4
+Low,MBL78,Mobile Phones,2001,Tier 3,Medium,Electronics Hub - Type 1,OUT308,0.930598,0.15,1882.98,4
+Medium,AUD64,Audio Equipment,2016,Tier 3,Large,Electronics Hub - Type 1,OUT182,0.6295242,3.75,2894.28,5
+Low,SWR47,Smart Wearables,2012,Tier 1,Medium,Electronics Hub - Type 1,OUT265,0.9492288,0.05,2968.4,4
+Medium,LPC11,Laptop and PC,2016,Tier 3,Large,Electronics Hub - Type 2,OUT079,0.9537116,3.25,651.43,5
+Medium,AUD64,Audio Equipment,2014,Tier 3,Medium,Multibrand Superstore,OUT252,0.5850273,0.69,1060.77,2
+High,HMA64,Home Appliance,2007,Tier 3,Medium,Electronics Hub - Type 2,OUT055,0.3303591,11.44,1544.39,5
+High,HMA21,Home Appliance,2008,Tier 2,Small,Official Brand Store,OUT279,0.2823281,19.83,1346.44,4
+Low,SWR56,Smart Wearables,2001,Tier 1,Small,Official Brand Store,OUT296,0.2358932,0.13,2132.23,4
+Low,SWR28,Smart Wearables,2000,Tier 1,Small,Electronics Hub - Type 1,OUT469,0.4011214,0.16,847.94,4
+Low,SWR42,Smart Wearables,2006,Tier 3,Small,Electronics Hub - Type 2,OUT470,0.5441487,0.07,2773.06,3
+Low,SWR76,Smart Wearables,2018,Tier 3,Large,Official Brand Store,OUT385,0.8037546,0.15,2050.05,5
+Low,SWR66,Smart Wearables,2004,Tier 2,Small,Electronics Hub - Type 1,OUT471,0.2424197,0.19,625.54,4
+Medium,AUD48,Audio Equipment,2013,Tier 1,Large,Electronics Hub - Type 2,OUT063,0.8977259,2.51,2691.26,4
+Low,MBL77,Mobile Phones,2005,Tier 3,Large,Electronics Hub - Type 2,OUT330,0.4012563,0.4,1398.92,5
+Medium,AUD51,Audio Equipment,2000,Tier 3,Large,Official Brand Store,OUT163,0.661382,2.71,1092.09,5
+High,HMA69,Home Appliance,2011,Tier 3,Medium,Electronics Hub - Type 2,OUT283,0.917692,7.63,105.94,4
+Low,MBL52,Mobile Phones,2007,Tier 3,Large,Multibrand Superstore,OUT444,0.6789409,0.2,1950.66,4
+Low,TBL16,Tablet,2012,Tier 3,Large,Multibrand Superstore,OUT472,0.4900261,0.59,1513.77,2
+Medium,AUD70,Audio Equipment,2002,Tier 2,Medium,Electronics Hub - Type 2,OUT257,0.8912082,1.97,2870.72,3
+Low,MBL32,Mobile Phones,2003,Tier 2,Medium,Electronics Hub - Type 2,OUT473,0.3474781,0.17,2944.38,5
+Low,TBL19,Tablet,2004,Tier 1,Small,Multibrand Superstore,OUT390,0.4538038,0.59,1930.25,4
+High,HMA32,Home Appliance,2005,Tier 3,Medium,Official Brand Store,OUT218,0.1343726,36.86,1882.24,4
+Medium,LPC11,Laptop and PC,2002,Tier 1,Medium,Official Brand Store,OUT378,0.9107715,3.24,775.5,3
+Low,SWR77,Smart Wearables,2012,Tier 1,Small,Official Brand Store,OUT065,0.1681009,0.11,769.21,3
+High,HMA82,Home Appliance,2006,Tier 2,Large,Official Brand Store,OUT474,0.2050658,21.18,564.03,4
+Low,TBL45,Tablet,2004,Tier 1,Medium,Multibrand Superstore,OUT475,0.0177238,0.55,1361.62,3
+Medium,LPC39,Laptop and PC,2001,Tier 2,Small,Multibrand Superstore,OUT409,0.9380461,3.33,104.39,4
+Low,MBL54,Mobile Phones,2017,Tier 3,Small,Electronics Hub - Type 2,OUT476,0.3301095,0.19,2688.68,4
+Medium,LPC16,Laptop and PC,2010,Tier 3,Small,Official Brand Store,OUT045,0.2374041,1.96,1726.05,4
+Low,TBL47,Tablet,2008,Tier 1,Large,Electronics Hub - Type 1,OUT162,0.4650941,0.32,1882.28,3
+Low,SWR50,Smart Wearables,2016,Tier 3,Medium,Multibrand Superstore,OUT376,0.4021014,0.17,137.24,5
+Medium,AUD11,Audio Equipment,2016,Tier 2,Large,Official Brand Store,OUT477,0.9447454,3.03,2464.36,4
+Medium,LPC11,Laptop and PC,2019,Tier 2,Large,Electronics Hub - Type 1,OUT075,0.1147271,1.86,2606.17,5
+Medium,LPC16,Laptop and PC,2003,Tier 2,Small,Electronics Hub - Type 2,OUT068,0.0681966,1.21,519.68,5
+Low,SWR17,Smart Wearables,2017,Tier 2,Large,Electronics Hub - Type 1,OUT136,0.5783455,0.08,2581.41,4
+Low,SWR60,Smart Wearables,2005,Tier 2,Large,Electronics Hub - Type 1,OUT478,0.9962535,0.13,193.47,3
+Low,SWR50,Smart Wearables,2020,Tier 1,Medium,Multibrand Superstore,OUT479,0.612703,0.11,153.39,5
+Medium,AUD55,Audio Equipment,2003,Tier 3,Medium,Official Brand Store,OUT367,0.6519748,2.45,2202.1,5
+Low,TBL79,Tablet,2006,Tier 2,Small,Multibrand Superstore,OUT014,0.5491064,0.32,2397.44,4
+Medium,LPC51,Laptop and PC,2009,Tier 2,Small,Electronics Hub - Type 1,OUT420,0.9152891,2.11,2608.18,5
+High,HMA31,Home Appliance,2003,Tier 2,Medium,Official Brand Store,OUT480,0.2088151,31.41,1226.06,4
+Low,TBL73,Tablet,2007,Tier 3,Small,Multibrand Superstore,OUT211,0.2171281,0.58,513.4,5
+Low,TBL27,Tablet,2018,Tier 2,Large,Electronics Hub - Type 2,OUT260,0.9302178,0.52,2282.51,4
+Low,MBL60,Mobile Phones,2017,Tier 2,Small,Electronics Hub - Type 2,OUT319,0.9997868,0.23,744.2,4
+Low,TBL13,Tablet,2016,Tier 2,Small,Electronics Hub - Type 1,OUT246,0.5413713,0.38,554.84,5
+Medium,LPC89,Laptop and PC,2003,Tier 3,Large,Official Brand Store,OUT262,0.9350898,1.26,1628.39,4
+Low,TBL47,Tablet,2006,Tier 2,Small,Electronics Hub - Type 1,OUT481,0.7268274,0.42,308.57,3
+Medium,AUD21,Audio Equipment,2000,Tier 2,Large,Multibrand Superstore,OUT482,0.111741,1.67,2323.84,2
+Low,MBL27,Mobile Phones,2004,Tier 3,Large,Electronics Hub - Type 2,OUT483,0.8630964,0.3,2751.33,4
+Medium,AUD65,Audio Equipment,2019,Tier 2,Medium,Official Brand Store,OUT050,0.5618885,2.57,2382.8,4
+Medium,AUD98,Audio Equipment,2007,Tier 3,Large,Multibrand Superstore,OUT444,0.4446622,1.72,463.71,4
+Low,MBL28,Mobile Phones,2010,Tier 1,Medium,Multibrand Superstore,OUT274,0.0751517,0.3,2632.23,5
+Low,TBL77,Tablet,2005,Tier 3,Large,Electronics Hub - Type 2,OUT330,0.877248,0.48,969.32,5
+Low,TBL63,Tablet,2010,Tier 1,Large,Electronics Hub - Type 2,OUT324,0.5774258,0.57,2810.19,4
+High,HMA89,Home Appliance,2020,Tier 3,Medium,Electronics Hub - Type 1,OUT318,0.2598509,32.53,1913.39,4
+Low,TBL28,Tablet,2010,Tier 2,Medium,Electronics Hub - Type 1,OUT484,0.3662065,0.41,1996.2,3
+Medium,LPC54,Laptop and PC,2005,Tier 3,Small,Electronics Hub - Type 1,OUT220,0.5036895,2.27,2432.47,3
+Low,MBL33,Mobile Phones,2011,Tier 1,Medium,Multibrand Superstore,OUT485,0.3940293,0.25,727.39,5
+Low,TBL76,Tablet,2013,Tier 1,Large,Electronics Hub - Type 1,OUT486,0.1898188,0.59,1292.84,4
+Medium,AUD58,Audio Equipment,2008,Tier 1,Small,Official Brand Store,OUT185,0.0863592,2.51,2990.49,2
+High,HMA75,Home Appliance,2007,Tier 1,Small,Official Brand Store,OUT263,0.772723,9.12,988.3,4
+Low,MBL65,Mobile Phones,2011,Tier 1,Medium,Official Brand Store,OUT441,0.1705443,0.36,1233.39,4
+Low,MBL85,Mobile Phones,2012,Tier 2,Small,Multibrand Superstore,OUT487,0.8812661,0.32,1951.1,4
+Medium,AUD94,Audio Equipment,2011,Tier 3,Medium,Multibrand Superstore,OUT488,0.1919268,1.79,1268.54,5
+Low,SWR93,Smart Wearables,2000,Tier 2,Large,Electronics Hub - Type 1,OUT072,0.2784801,0.17,422.08,4
+Low,MBL32,Mobile Phones,2008,Tier 2,Small,Electronics Hub - Type 2,OUT222,0.2307647,0.28,919.01,4
+Medium,LPC33,Laptop and PC,2020,Tier 3,Medium,Multibrand Superstore,OUT440,0.6925964,2.92,1553.21,5
+Medium,AUD21,Audio Equipment,2016,Tier 3,Large,Multibrand Superstore,OUT022,0.3313548,3.11,520.12,4
+Low,TBL50,Tablet,2003,Tier 2,Small,Electronics Hub - Type 2,OUT068,0.9978102,0.41,609.25,5
+High,HMA51,Home Appliance,2007,Tier 3,Medium,Electronics Hub - Type 2,OUT055,0.7569403,22.52,2511.88,5
+Medium,LPC76,Laptop and PC,2009,Tier 1,Small,Official Brand Store,OUT310,0.940604,3.15,144.46,4
+Low,TBL97,Tablet,2015,Tier 3,Medium,Official Brand Store,OUT489,0.2927494,0.5,1352.25,5
+Medium,LPC51,Laptop and PC,2019,Tier 3,Small,Multibrand Superstore,OUT490,0.117026,1.87,2040.19,4
+Medium,LPC93,Laptop and PC,2013,Tier 1,Large,Multibrand Superstore,OUT491,0.5308631,2.85,1644.22,5
+Medium,AUD76,Audio Equipment,2008,Tier 3,Medium,Official Brand Store,OUT131,0.9871976,3.38,1297.75,5
+Medium,LPC65,Laptop and PC,2019,Tier 1,Large,Multibrand Superstore,OUT174,0.9972463,2.67,2382.48,4
+Low,MBL96,Mobile Phones,2016,Tier 2,Small,Electronics Hub - Type 2,OUT405,0.5752213,0.29,373.26,4
+Medium,AUD74,Audio Equipment,2007,Tier 1,Medium,Electronics Hub - Type 2,OUT032,0.7038712,0.92,2353.38,5
+Medium,LPC76,Laptop and PC,2001,Tier 2,Large,Electronics Hub - Type 2,OUT226,0.6863715,3.24,2645.44,4
+Low,SWR63,Smart Wearables,2019,Tier 2,Small,Official Brand Store,OUT492,0.2837377,0.08,2204.08,4
+Medium,LPC97,Laptop and PC,2014,Tier 2,Small,Official Brand Store,OUT493,0.08983,2.79,2514.66,3
+Medium,LPC84,Laptop and PC,2009,Tier 3,Small,Multibrand Superstore,OUT087,0.7448628,1.83,908.47,5
+Low,SWR83,Smart Wearables,2001,Tier 1,Large,Multibrand Superstore,OUT016,0.3734881,0.18,440.12,5
+Low,SWR27,Smart Wearables,2015,Tier 2,Medium,Multibrand Superstore,OUT494,0.1559256,0.14,2228.47,4
+Medium,LPC82,Laptop and PC,2018,Tier 3,Small,Electronics Hub - Type 1,OUT495,0.1980953,1.23,1873.22,4
+Medium,AUD84,Audio Equipment,2015,Tier 1,Medium,Electronics Hub - Type 2,OUT435,0.9604438,1.77,1088.22,4
+Low,MBL45,Mobile Phones,2018,Tier 3,Small,Electronics Hub - Type 2,OUT160,0.4259698,0.18,732.44,4
+High,HMA52,Home Appliance,2006,Tier 3,Small,Multibrand Superstore,OUT452,0.9827701,14.33,864.48,5
+Medium,AUD23,Audio Equipment,2020,Tier 2,Large,Electronics Hub - Type 1,OUT496,0.6795975,3.06,162.25,4
+Low,SWR49,Smart Wearables,2006,Tier 1,Small,Official Brand Store,OUT407,0.4875715,0.07,597.86,5
+Medium,LPC20,Laptop and PC,2007,Tier 2,Large,Electronics Hub - Type 2,OUT497,0.9409399,2.12,524.87,3
+Medium,LPC43,Laptop and PC,2015,Tier 2,Large,Electronics Hub - Type 1,OUT357,0.451412,1.69,2049.69,5
+Medium,AUD94,Audio Equipment,2008,Tier 2,Small,Electronics Hub - Type 2,OUT222,0.4587456,1.36,1676.69,4
+High,HMA39,Home Appliance,2008,Tier 3,Medium,Electronics Hub - Type 1,OUT498,0.5659998,24.45,2916.93,4
+High,HMA90,Home Appliance,2000,Tier 2,Large,Electronics Hub - Type 1,OUT072,0.6633437,27.18,2228.95,5
+Low,SWR87,Smart Wearables,2010,Tier 3,Small,Electronics Hub - Type 1,OUT499,0.5376286,0.18,187.26,3
+Medium,LPC41,Laptop and PC,2017,Tier 2,Large,Multibrand Superstore,OUT254,0.5348989,1.79,970.55,5
+Low,SWR20,Smart Wearables,2002,Tier 1,Small,Multibrand Superstore,OUT500,0.152666,0.06,828.31,5
+High,HMA96,Home Appliance,2000,Tier 1,Medium,Official Brand Store,OUT021,0.9812755,35.19,2487.61,4
+Low,SWR32,Smart Wearables,2000,Tier 3,Medium,Electronics Hub - Type 2,OUT272,0.0325395,0.18,299.26,5
+High,HMA83,Home Appliance,2016,Tier 3,Small,Official Brand Store,OUT501,0.0866092,24.32,149.88,3
+Medium,AUD43,Audio Equipment,2011,Tier 1,Large,Electronics Hub - Type 1,OUT502,0.0413752,1.81,2320.22,4
+Low,SWR54,Smart Wearables,2005,Tier 2,Large,Official Brand Store,OUT503,0.5150607,0.07,2462.69,5
+Low,SWR79,Smart Wearables,2012,Tier 3,Small,Electronics Hub - Type 1,OUT327,0.0194283,0.14,1672.69,5
+Low,TBL16,Tablet,2018,Tier 3,Small,Electronics Hub - Type 1,OUT495,0.4790938,0.46,645.59,4
+Low,MBL51,Mobile Phones,2005,Tier 1,Small,Multibrand Superstore,OUT415,0.6260256,0.33,2258.81,4
+Medium,LPC50,Laptop and PC,2016,Tier 2,Large,Multibrand Superstore,OUT504,0.1068602,1.44,2585.01,5
+Low,TBL60,Tablet,2009,Tier 1,Large,Electronics Hub - Type 1,OUT114,0.6031495,0.43,2015.62,4
+Medium,LPC65,Laptop and PC,2004,Tier 1,Medium,Official Brand Store,OUT392,0.1419595,1.68,443.93,5
+Medium,AUD37,Audio Equipment,2015,Tier 1,Small,Official Brand Store,OUT505,0.2626307,2.31,1293.28,3
+Low,SWR84,Smart Wearables,2011,Tier 2,Small,Electronics Hub - Type 1,OUT375,0.7483581,0.18,2759.06,3
+High,HMA21,Home Appliance,2016,Tier 1,Medium,Official Brand Store,OUT453,0.1449414,28.13,2774.22,5
+High,HMA14,Home Appliance,2007,Tier 1,Large,Multibrand Superstore,OUT412,0.674827,31.58,127.37,2
+Low,TBL83,Tablet,2004,Tier 1,Large,Electronics Hub - Type 2,OUT088,0.8999464,0.5,1297.89,5
+Low,MBL74,Mobile Phones,2004,Tier 3,Large,Electronics Hub - Type 2,OUT483,0.1743695,0.37,1208.69,5
+Low,TBL45,Tablet,2020,Tier 1,Large,Electronics Hub - Type 2,OUT264,0.9833153,0.46,396.63,3
+Medium,LPC93,Laptop and PC,2009,Tier 3,Large,Electronics Hub - Type 2,OUT278,0.4114795,2.44,744.05,3
+Low,SWR12,Smart Wearables,2012,Tier 3,Medium,Electronics Hub - Type 2,OUT451,0.7117595,0.1,2444.57,2
+Medium,LPC93,Laptop and PC,2014,Tier 1,Small,Electronics Hub - Type 1,OUT506,0.5541388,1.52,1008.68,5
+Low,TBL86,Tablet,2008,Tier 2,Small,Electronics Hub - Type 1,OUT238,0.5994225,0.39,2363.29,5
+Low,MBL17,Mobile Phones,2018,Tier 3,Medium,Multibrand Superstore,OUT507,0.1444583,0.23,1273.07,5
+Medium,AUD74,Audio Equipment,2019,Tier 2,Small,Electronics Hub - Type 1,OUT347,0.9623491,3.56,845.98,2
+Medium,AUD83,Audio Equipment,2013,Tier 1,Medium,Official Brand Store,OUT258,0.9470486,3.16,2366.35,1
+Low,SWR82,Smart Wearables,2017,Tier 2,Medium,Electronics Hub - Type 2,OUT240,0.337021,0.08,361.28,5
+Low,SWR36,Smart Wearables,2002,Tier 3,Small,Electronics Hub - Type 1,OUT508,0.0880814,0.08,2677.47,5
+Low,TBL46,Tablet,2007,Tier 1,Small,Electronics Hub - Type 1,OUT337,0.9825506,0.47,2664.6,5
+Low,MBL34,Mobile Phones,2012,Tier 2,Large,Multibrand Superstore,OUT411,0.8374048,0.24,1137.15,3
+Low,TBL10,Tablet,2018,Tier 3,Small,Multibrand Superstore,OUT158,0.4990832,0.36,796.77,5
+Low,MBL90,Mobile Phones,2003,Tier 1,Small,Electronics Hub - Type 1,OUT509,0.2752059,0.36,437.9,5
+Low,TBL96,Tablet,2005,Tier 1,Small,Multibrand Superstore,OUT415,0.7475988,0.39,127.44,5
+Low,SWR76,Smart Wearables,2018,Tier 3,Large,Electronics Hub - Type 2,OUT510,0.7820765,0.08,2240.87,5
+Low,SWR88,Smart Wearables,2004,Tier 2,Large,Multibrand Superstore,OUT511,0.1250277,0.11,1254.98,5
+Low,TBL46,Tablet,2002,Tier 2,Medium,Electronics Hub - Type 1,OUT512,0.4709303,0.51,1436.1,5
+Low,SWR40,Smart Wearables,2013,Tier 3,Large,Electronics Hub - Type 2,OUT513,0.0092503,0.1,1213.99,4
+Low,MBL56,Mobile Phones,2016,Tier 1,Large,Electronics Hub - Type 1,OUT514,0.2028308,0.1,2324.07,3
+Low,TBL30,Tablet,2003,Tier 1,Small,Multibrand Superstore,OUT383,0.3709916,0.43,2852.62,5
+High,HMA24,Home Appliance,2020,Tier 2,Medium,Electronics Hub - Type 2,OUT111,0.8924099,29.98,2965.41,4
+High,HMA31,Home Appliance,2004,Tier 3,Medium,Electronics Hub - Type 1,OUT515,0.4443453,14.96,2116.65,3
+High,HMA10,Home Appliance,2009,Tier 3,Small,Multibrand Superstore,OUT087,0.2813386,12.87,1988.13,2
+High,HMA41,Home Appliance,2007,Tier 2,Medium,Electronics Hub - Type 1,OUT516,0.8566112,11.72,2501.2,3
+Medium,AUD57,Audio Equipment,2004,Tier 2,Small,Electronics Hub - Type 2,OUT517,0.9783579,2.15,932.01,5
+Low,SWR35,Smart Wearables,2016,Tier 1,Small,Official Brand Store,OUT284,0.670777,0.14,1186.15,5
+High,HMA56,Home Appliance,2006,Tier 1,Medium,Multibrand Superstore,OUT322,0.050875,8.99,1104.15,5
+Low,MBL49,Mobile Phones,2006,Tier 1,Medium,Electronics Hub - Type 2,OUT099,0.6488234,0.36,1873.6,3
+Low,TBL90,Tablet,2012,Tier 2,Large,Electronics Hub - Type 2,OUT054,0.0963514,0.37,585.35,4
+Medium,LPC56,Laptop and PC,2005,Tier 1,Small,Electronics Hub - Type 1,OUT315,0.1485648,2.34,1183.95,3
+Low,MBL83,Mobile Phones,2013,Tier 2,Large,Multibrand Superstore,OUT171,0.2063378,0.13,2006.77,3
+Medium,AUD44,Audio Equipment,2007,Tier 1,Medium,Official Brand Store,OUT093,0.7611913,2.87,2637.94,5
+Medium,LPC20,Laptop and PC,2020,Tier 3,Large,Electronics Hub - Type 1,OUT082,0.9598674,1.77,2420.65,4
+Low,SWR17,Smart Wearables,2013,Tier 1,Large,Official Brand Store,OUT518,0.6126834,0.14,1249.49,4
+Medium,AUD71,Audio Equipment,2001,Tier 3,Large,Electronics Hub - Type 1,OUT519,0.7894562,3.68,1261.1,5
+Low,MBL99,Mobile Phones,2006,Tier 2,Large,Official Brand Store,OUT474,0.5632449,0.38,2993.97,4
+Low,MBL73,Mobile Phones,2002,Tier 1,Medium,Electronics Hub - Type 2,OUT244,0.9624861,0.28,2082.42,4
+Low,TBL42,Tablet,2010,Tier 3,Medium,Multibrand Superstore,OUT304,0.7111929,0.55,1768.8,5
+Medium,AUD38,Audio Equipment,2014,Tier 3,Small,Electronics Hub - Type 2,OUT033,0.6969395,1.74,1923.6,4
+Medium,AUD48,Audio Equipment,2002,Tier 1,Small,Electronics Hub - Type 2,OUT176,0.143314,3.01,2007.17,4
+Low,SWR61,Smart Wearables,2019,Tier 2,Large,Electronics Hub - Type 1,OUT075,0.3167525,0.16,545.45,5
+Low,MBL65,Mobile Phones,2016,Tier 1,Small,Official Brand Store,OUT284,0.5348717,0.28,2962.16,5
+Low,TBL32,Tablet,2001,Tier 1,Large,Multibrand Superstore,OUT016,0.6461451,0.39,1843.33,5
+Low,MBL24,Mobile Phones,2015,Tier 2,Small,Electronics Hub - Type 1,OUT520,0.0004858,0.36,1325.62,5
+Low,SWR28,Smart Wearables,2006,Tier 2,Large,Official Brand Store,OUT474,0.8191482,0.09,2100.65,5
+Medium,LPC99,Laptop and PC,2016,Tier 1,Medium,Official Brand Store,OUT453,0.6329326,3.1,797.54,4
+Medium,AUD49,Audio Equipment,2001,Tier 2,Medium,Electronics Hub - Type 1,OUT365,0.7799799,3.14,1331.61,5
+Low,TBL71,Tablet,2011,Tier 3,Medium,Electronics Hub - Type 1,OUT521,0.4467236,0.33,2919.89,5
+Medium,LPC70,Laptop and PC,2016,Tier 3,Medium,Electronics Hub - Type 1,OUT049,0.1026305,1.73,2068.72,2
+Low,SWR58,Smart Wearables,2007,Tier 3,Large,Official Brand Store,OUT522,0.0924435,0.08,2119.28,5
+Low,MBL64,Mobile Phones,2005,Tier 1,Small,Electronics Hub - Type 1,OUT315,0.9158323,0.28,2632.15,4
+Low,MBL32,Mobile Phones,2003,Tier 3,Large,Electronics Hub - Type 2,OUT523,0.9478287,0.23,2698.5,5
+High,HMA93,Home Appliance,2010,Tier 2,Small,Official Brand Store,OUT027,0.8747584,12.86,192.89,1
+Low,MBL53,Mobile Phones,2002,Tier 2,Medium,Official Brand Store,OUT524,0.7611685,0.35,1664.55,5
+Medium,AUD20,Audio Equipment,2015,Tier 3,Medium,Official Brand Store,OUT489,0.9744781,3.16,2053.11,3
+High,HMA66,Home Appliance,2018,Tier 1,Large,Electronics Hub - Type 1,OUT525,0.6462058,13.9,1403.14,5
+Medium,AUD73,Audio Equipment,2003,Tier 2,Small,Official Brand Store,OUT434,0.8518343,2.87,574.82,2
+Medium,LPC14,Laptop and PC,2009,Tier 2,Medium,Multibrand Superstore,OUT526,0.4539629,2.7,1907.34,5
+Low,SWR80,Smart Wearables,2012,Tier 2,Large,Electronics Hub - Type 2,OUT054,0.4032391,0.08,2438.89,4
+High,HMA37,Home Appliance,2006,Tier 3,Medium,Electronics Hub - Type 1,OUT527,0.8413855,31.74,2923.43,4
+Low,TBL60,Tablet,2006,Tier 1,Medium,Multibrand Superstore,OUT322,0.7789804,0.39,1261.01,4
+High,HMA10,Home Appliance,2009,Tier 3,Small,Electronics Hub - Type 1,OUT225,0.3551339,24.53,1380.67,3
+Medium,AUD65,Audio Equipment,2011,Tier 3,Small,Official Brand Store,OUT089,0.6987214,1.61,2706.74,3
+Medium,LPC49,Laptop and PC,2018,Tier 2,Large,Multibrand Superstore,OUT127,0.7155018,2.11,1657.66,5
+Low,SWR80,Smart Wearables,2019,Tier 2,Large,Official Brand Store,OUT528,0.1406399,0.18,2493.63,5
+Medium,AUD28,Audio Equipment,2011,Tier 2,Medium,Electronics Hub - Type 2,OUT024,0.8549587,3.89,1618.33,4
+Low,SWR77,Smart Wearables,2013,Tier 2,Large,Multibrand Superstore,OUT171,0.7899939,0.16,285.93,3
+Low,MBL50,Mobile Phones,2001,Tier 1,Small,Official Brand Store,OUT296,0.327707,0.12,2012.06,4
+Low,SWR91,Smart Wearables,2018,Tier 2,Medium,Electronics Hub - Type 2,OUT116,0.2895425,0.06,1266.26,5
+Low,MBL48,Mobile Phones,2011,Tier 2,Medium,Multibrand Superstore,OUT059,0.4912859,0.28,385.41,5
+Low,SWR54,Smart Wearables,2019,Tier 2,Small,Electronics Hub - Type 1,OUT347,0.4479548,0.13,1406.12,4
+Low,MBL47,Mobile Phones,2000,Tier 2,Medium,Multibrand Superstore,OUT430,0.7378731,0.36,2967.2,4
+Medium,AUD42,Audio Equipment,2013,Tier 2,Large,Electronics Hub - Type 1,OUT529,0.8005421,2.97,1544.77,5
+Low,SWR51,Smart Wearables,2019,Tier 1,Medium,Electronics Hub - Type 2,OUT320,0.1154065,0.14,992.11,5
+Low,TBL58,Tablet,2010,Tier 2,Large,Electronics Hub - Type 2,OUT153,0.1578909,0.32,1191.86,4
+Low,SWR51,Smart Wearables,2020,Tier 3,Large,Electronics Hub - Type 2,OUT261,0.9359777,0.1,457.82,5
+Medium,AUD82,Audio Equipment,2010,Tier 2,Small,Electronics Hub - Type 1,OUT530,0.0721086,3.58,337.94,4
+Medium,LPC82,Laptop and PC,2007,Tier 2,Medium,Electronics Hub - Type 2,OUT295,0.101385,3.23,2484.33,4
+High,HMA67,Home Appliance,2016,Tier 2,Small,Electronics Hub - Type 2,OUT405,0.6390082,10.96,893.92,4
+Low,TBL47,Tablet,2004,Tier 1,Small,Electronics Hub - Type 1,OUT531,0.9196718,0.55,2979.13,5
+Medium,LPC62,Laptop and PC,2012,Tier 2,Small,Official Brand Store,OUT143,0.3535249,3,1996.66,3
+High,HMA28,Home Appliance,2009,Tier 1,Large,Electronics Hub - Type 1,OUT114,0.3467352,35.31,576.85,5
+Medium,AUD25,Audio Equipment,2002,Tier 2,Small,Electronics Hub - Type 2,OUT532,0.4823685,3.55,764.11,5
+Medium,AUD49,Audio Equipment,2020,Tier 3,Large,Electronics Hub - Type 2,OUT261,0.3475579,2.38,691.07,5
+Medium,AUD87,Audio Equipment,2004,Tier 2,Large,Electronics Hub - Type 2,OUT277,0.3979834,3.7,2392.78,5
+Low,TBL97,Tablet,2014,Tier 2,Large,Multibrand Superstore,OUT288,0.0203603,0.31,539.44,5
+Low,SWR23,Smart Wearables,2012,Tier 3,Large,Official Brand Store,OUT073,0.7083693,0.13,1886.26,3
+Low,SWR13,Smart Wearables,2019,Tier 1,Small,Official Brand Store,OUT533,0.042598,0.18,138.14,5
+Low,MBL41,Mobile Phones,2017,Tier 3,Large,Multibrand Superstore,OUT534,0.7515345,0.3,2182.4,2
+Medium,LPC41,Laptop and PC,2019,Tier 1,Small,Electronics Hub - Type 2,OUT535,0.8960812,2.37,1577.56,5
+Medium,LPC49,Laptop and PC,2012,Tier 1,Medium,Electronics Hub - Type 2,OUT360,0.6784113,1.36,2325.78,1
+Low,MBL87,Mobile Phones,2017,Tier 1,Medium,Electronics Hub - Type 2,OUT536,0.1902563,0.31,758.77,4
+Medium,LPC34,Laptop and PC,2000,Tier 2,Large,Multibrand Superstore,OUT482,0.8525062,2.87,2245.87,4
+Low,TBL14,Tablet,2013,Tier 1,Small,Electronics Hub - Type 2,OUT537,0.6289385,0.32,311.57,4
+High,HMA99,Home Appliance,2007,Tier 3,Small,Electronics Hub - Type 2,OUT147,0.440923,17.27,187.47,4
+Medium,LPC11,Laptop and PC,2005,Tier 3,Large,Electronics Hub - Type 1,OUT128,0.1675289,3.28,190.45,4
+Low,TBL41,Tablet,2005,Tier 2,Small,Electronics Hub - Type 2,OUT301,0.9499661,0.33,1577.69,4
+Low,MBL97,Mobile Phones,2004,Tier 3,Medium,Electronics Hub - Type 1,OUT515,0.3994173,0.18,2099.54,4
+Low,TBL75,Tablet,2001,Tier 2,Medium,Electronics Hub - Type 2,OUT307,0.2080269,0.38,428.33,4
+Low,TBL21,Tablet,2007,Tier 2,Large,Official Brand Store,OUT538,0.5133047,0.53,706,1
+Low,TBL73,Tablet,2007,Tier 2,Medium,Electronics Hub - Type 1,OUT516,0.6137386,0.49,2216.55,3
+Low,TBL94,Tablet,2001,Tier 2,Small,Official Brand Store,OUT348,0.3661714,0.54,1206.96,4
+Low,MBL69,Mobile Phones,2015,Tier 1,Large,Electronics Hub - Type 1,OUT286,0.2206453,0.21,2524.77,5
+Medium,LPC81,Laptop and PC,2016,Tier 1,Small,Electronics Hub - Type 2,OUT539,0.9852113,1.53,1142.73,1
+Medium,LPC72,Laptop and PC,2006,Tier 3,Medium,Multibrand Superstore,OUT540,0.2752615,1.55,1659.85,5
+High,HMA20,Home Appliance,2005,Tier 3,Large,Official Brand Store,OUT541,0.9945038,25.72,1432.39,5
+Medium,AUD49,Audio Equipment,2003,Tier 2,Medium,Electronics Hub - Type 1,OUT542,0.8373583,0.53,2117.45,4
+Low,MBL52,Mobile Phones,2017,Tier 3,Small,Electronics Hub - Type 2,OUT476,0.1431121,0.35,606.31,4
+Low,TBL87,Tablet,2009,Tier 2,Large,Multibrand Superstore,OUT124,0.042045,0.52,355.2,5
+Medium,LPC17,Laptop and PC,2016,Tier 3,Large,Official Brand Store,OUT423,0.8437046,2.85,2858.17,5
+Medium,LPC32,Laptop and PC,2011,Tier 1,Large,Official Brand Store,OUT543,0.3533036,2.54,923.08,4
+Low,MBL63,Mobile Phones,2013,Tier 1,Small,Official Brand Store,OUT424,0.4594901,0.23,580.43,4
+High,HMA43,Home Appliance,2005,Tier 1,Medium,Electronics Hub - Type 1,OUT341,0.6633361,13.76,1978.87,3
+Low,SWR77,Smart Wearables,2009,Tier 1,Small,Official Brand Store,OUT310,0.5762717,0.11,2407.2,2
+Low,MBL69,Mobile Phones,2018,Tier 2,Large,Official Brand Store,OUT249,0.2002836,0.32,529.45,4
+Low,SWR14,Smart Wearables,2002,Tier 2,Small,Electronics Hub - Type 2,OUT532,0.6218104,0.17,1013.14,4
+Low,MBL30,Mobile Phones,2018,Tier 1,Medium,Electronics Hub - Type 1,OUT544,0.1828391,0.13,2436.13,4
+High,HMA32,Home Appliance,2006,Tier 1,Small,Electronics Hub - Type 2,OUT545,0.4291507,39.28,2436.22,4
+High,HMA74,Home Appliance,2009,Tier 2,Medium,Electronics Hub - Type 1,OUT546,0.8026853,26.11,1501.52,4
+Medium,AUD80,Audio Equipment,2006,Tier 1,Medium,Electronics Hub - Type 2,OUT099,0.4926044,1.52,1434.3,4
+Low,SWR74,Smart Wearables,2012,Tier 1,Medium,Electronics Hub - Type 1,OUT265,0.0689831,0.14,2640.03,5
+Medium,AUD21,Audio Equipment,2017,Tier 2,Medium,Multibrand Superstore,OUT151,0.5551613,2.64,538.73,2
+Low,MBL17,Mobile Phones,2006,Tier 2,Small,Official Brand Store,OUT025,0.5222925,0.32,1314.84,5
+Medium,LPC12,Laptop and PC,2009,Tier 3,Small,Official Brand Store,OUT449,0.8424971,1.26,2936.55,3
+Low,SWR17,Smart Wearables,2005,Tier 1,Medium,Electronics Hub - Type 1,OUT341,0.8210238,0.14,1115.38,3
+Medium,AUD91,Audio Equipment,2002,Tier 2,Small,Electronics Hub - Type 2,OUT532,0.7564824,1.14,653.42,4
+Medium,AUD42,Audio Equipment,2008,Tier 2,Medium,Electronics Hub - Type 2,OUT547,0.9592652,2.96,1905.95,3
+Medium,AUD34,Audio Equipment,2013,Tier 3,Large,Electronics Hub - Type 1,OUT431,0.7841828,3.9,2274.42,5
+Medium,AUD27,Audio Equipment,2004,Tier 2,Small,Official Brand Store,OUT548,0.2977516,1.1,2251.26,4
+Medium,AUD15,Audio Equipment,2020,Tier 1,Small,Multibrand Superstore,OUT549,0.7255329,0.56,1427.14,1
+High,HMA10,Home Appliance,2014,Tier 3,Medium,Electronics Hub - Type 1,OUT339,0.0745125,37.4,143.17,5
+Low,TBL82,Tablet,2020,Tier 1,Medium,Electronics Hub - Type 2,OUT550,0.067541,0.41,990.83,5
+Low,TBL85,Tablet,2002,Tier 3,Small,Electronics Hub - Type 2,OUT461,0.0820396,0.58,1306.72,5
+Low,TBL75,Tablet,2006,Tier 1,Large,Official Brand Store,OUT379,0.3439698,0.49,2012.4,5
+Medium,AUD88,Audio Equipment,2006,Tier 3,Medium,Electronics Hub - Type 2,OUT169,0.8050898,2,1637.15,5
+Low,SWR94,Smart Wearables,2003,Tier 1,Large,Electronics Hub - Type 2,OUT551,0.2905999,0.17,1897.7,4
+Low,SWR89,Smart Wearables,2009,Tier 1,Medium,Official Brand Store,OUT212,0.0955711,0.08,555.07,5
+Low,MBL12,Mobile Phones,2007,Tier 3,Medium,Multibrand Superstore,OUT552,0.0614784,0.35,997.91,5
+Low,TBL91,Tablet,2012,Tier 3,Medium,Official Brand Store,OUT083,0.4154865,0.52,2504.19,5
+Low,MBL45,Mobile Phones,2012,Tier 1,Large,Electronics Hub - Type 1,OUT553,0.9764438,0.23,2869.83,4
+Medium,LPC84,Laptop and PC,2020,Tier 1,Small,Official Brand Store,OUT554,0.617498,1.75,2159.31,5
+Low,SWR26,Smart Wearables,2013,Tier 3,Medium,Electronics Hub - Type 1,OUT396,0.2081892,0.18,1182.16,4
+Medium,LPC22,Laptop and PC,2012,Tier 3,Small,Electronics Hub - Type 2,OUT104,0.4958581,2.82,1387.89,5
+High,HMA42,Home Appliance,2015,Tier 2,Large,Electronics Hub - Type 1,OUT357,0.8677733,32.16,206.22,5
+Low,SWR46,Smart Wearables,2020,Tier 3,Small,Multibrand Superstore,OUT555,0.5439352,0.11,702.68,4
+High,HMA50,Home Appliance,2015,Tier 3,Medium,Official Brand Store,OUT489,0.4833102,33.5,808.19,3
+Low,TBL64,Tablet,2002,Tier 1,Small,Electronics Hub - Type 2,OUT176,0.4692815,0.57,2439.29,5
+Low,SWR89,Smart Wearables,2002,Tier 2,Large,Official Brand Store,OUT167,0.8982916,0.19,2471.07,4
+Medium,AUD73,Audio Equipment,2000,Tier 2,Large,Multibrand Superstore,OUT482,0.490673,2.66,1445.2,1
+Medium,AUD92,Audio Equipment,2016,Tier 1,Small,Electronics Hub - Type 2,OUT539,0.3958492,0.64,150.02,3
+Medium,AUD58,Audio Equipment,2000,Tier 3,Small,Electronics Hub - Type 2,OUT556,0.0295261,2.98,1992.71,4
+Low,SWR68,Smart Wearables,2002,Tier 2,Medium,Multibrand Superstore,OUT557,0.4301177,0.15,2346.95,5
+Low,MBL78,Mobile Phones,2012,Tier 1,Large,Multibrand Superstore,OUT097,0.7295531,0.31,186.24,2
+Low,MBL27,Mobile Phones,2016,Tier 3,Medium,Electronics Hub - Type 2,OUT558,0.9824308,0.24,846.12,3
+Medium,AUD37,Audio Equipment,2000,Tier 2,Small,Multibrand Superstore,OUT559,0.7361699,2.61,2645.83,5
+Low,TBL75,Tablet,2000,Tier 2,Medium,Electronics Hub - Type 1,OUT202,0.6834398,0.43,1256.97,5
+High,HMA79,Home Appliance,2008,Tier 3,Medium,Electronics Hub - Type 1,OUT498,0.6781123,14.28,2118.27,5
+High,HMA84,Home Appliance,2010,Tier 3,Large,Official Brand Store,OUT096,0.1041746,15.62,685.36,4
+Medium,LPC54,Laptop and PC,2015,Tier 2,Small,Multibrand Superstore,OUT149,0.4443963,1.31,2780.33,4
+Medium,AUD85,Audio Equipment,2008,Tier 1,Medium,Multibrand Superstore,OUT317,0.1253814,1.18,1760.05,4
+Low,TBL69,Tablet,2015,Tier 2,Small,Multibrand Superstore,OUT149,0.860405,0.31,490.97,5
+Low,TBL94,Tablet,2003,Tier 1,Small,Electronics Hub - Type 1,OUT509,0.5824566,0.31,2056.04,3
+Low,TBL55,Tablet,2009,Tier 1,Large,Electronics Hub - Type 1,OUT114,0.358952,0.57,2241.08,3
+Medium,LPC29,Laptop and PC,2019,Tier 3,Large,Official Brand Store,OUT466,0.1561288,1.63,348.86,5
+Medium,AUD14,Audio Equipment,2018,Tier 1,Medium,Multibrand Superstore,OUT155,0.4756109,3.02,2947.84,1
+Low,MBL25,Mobile Phones,2017,Tier 2,Large,Official Brand Store,OUT269,0.1305944,0.14,2961.08,5
+Medium,AUD99,Audio Equipment,2005,Tier 1,Large,Official Brand Store,OUT192,0.6411766,3.03,2693.68,5
+Medium,AUD30,Audio Equipment,2001,Tier 1,Medium,Electronics Hub - Type 1,OUT293,0.2058869,3.56,1140.09,5
+Low,MBL67,Mobile Phones,2016,Tier 3,Medium,Official Brand Store,OUT560,0.0766338,0.25,2484.07,4
+Medium,AUD76,Audio Equipment,2020,Tier 1,Large,Official Brand Store,OUT439,0.3866691,1.58,240.02,1
+Medium,LPC16,Laptop and PC,2006,Tier 2,Small,Electronics Hub - Type 1,OUT481,0.4988725,1.28,2339.06,4
+Medium,LPC37,Laptop and PC,2018,Tier 1,Large,Multibrand Superstore,OUT561,0.1276903,3.16,2915.35,4
