@@ -32,6 +32,7 @@ Through this exploratory analysis we can acquire various insights such as:
 - How various outlet characteristics (outlet size, location, type) influence sales performance.
 - Which item categories and power usage levels drive revenue.
 - How sales trends relate to establishments and their age.
+
 The multi-tool cross validation also helps ensure consistency in reporting.
 
 ## Tools Used
