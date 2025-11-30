@@ -1,7 +1,7 @@
 # Techpoint Sales Analysis | End-to-End Data Analytics Project
 
 ## Introduction
-This project analyzes a hypothetical retail dataset for a fictional electronics store chain called TechPoint, performing end-to-end analytics using SQL, PowerBI and Python to calculate business KPIs, build visualizations across multiple tools.
+This project analyzes a hypothetical retail dataset for a fictional electronics store chain called TechPoint, performing end-to-end analytics using SQL, PowerBI and Python to calculate business KPIs and build visualizations across multiple tools.
 
 ## Contents
 ### 1. KPIs Calculated in SQL
@@ -29,7 +29,7 @@ Recalculated all SQL KPIs and metrics using pandas. Created visualizations using
 
 ## Outcome
 Through this exploratory analysis we can acquire various insights such as:
-- How various outlet characteristcs (outlet size, location, type) influence sales performance.
+- How various outlet characteristics (outlet size, location, type) influence sales performance.
 - Which item categories and power usage levels drive revenue.
 - How sales trends relate to establishments and their age.
 The multi-tool cross validation also helps ensure consistency in reporting.
